@@ -9,7 +9,9 @@ Some ideas I thought of that I enjoyed thinking about and writing down.
 
 Reading code that uses awful names is painful. We could improve the code we write by collecting peer contributed and voted names.
 
-# 2. 
+# 2. Ultra monolith
+
+A web framework that everyone shares the codebase for.
 
 # Notes
 
