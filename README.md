@@ -1,6 +1,8 @@
 # An Extra 100 Ideas for Computing
 
-# 1. 
+# 1. Community Idea: Peer names
+
+Reading code that uses awful names is painful. We should improve the code we write by collecting per contributed and voted names.
 
 # Notes
 
