@@ -1,5 +1,10 @@
 # An Extra 100 Ideas for Computing
 
+Some ideas I thought of that I enjoyed thinking about and writing down.
+
+* [100 Ideas for Computing](https://github.com/samsquire/ideas)
+* [Another 100 Ideas for Computing](https://github.com/samsquire/ideas2)
+
 # 1. Community Idea: Peer names
 
 Reading code that uses awful names is painful. We should improve the code we write by collecting per contributed and voted names.
