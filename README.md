@@ -7,7 +7,7 @@ Some ideas I thought of that I enjoyed thinking about and writing down.
 
 # 1. Community Idea: Peer naming
 
-Reading code that uses awful names is painful. We should improve the code we write by collecting per contributed and voted names.
+Reading code that uses awful names is painful. We should improve the code we write by collecting peer contributed and voted names.
 
 # 2. 
 
