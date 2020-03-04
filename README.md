@@ -1,5 +1,7 @@
 # An Extra 100 Ideas for Computing
 
+# 1. 
+
 # Notes
 
 literate programming story introduce test case all together
