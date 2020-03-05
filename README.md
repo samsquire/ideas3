@@ -13,6 +13,8 @@ Reading code that uses awful names is painful. We could improve the code we writ
 
 A web codebase that everyone shares the codebase for. Allows optimisations by people to benefit everyone simultaneously.
 
+# 3. 
+
 # Notes
 
 literate programming story introduce test case all together
