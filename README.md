@@ -11,7 +11,7 @@ Reading code that uses awful names is painful. We could improve the code we writ
 
 # 2. Ultra monolith
 
-A web codebase that everyone shares the codebase for. Allows optimisations by people to benefit everyone simultaneously.
+A web based framework codebase that everyone shares the same codebase for. Allows optimisations by people to benefit everyone simultaneously.
 
 # 3. 
 
