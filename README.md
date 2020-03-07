@@ -13,7 +13,9 @@ Reading code that uses awful names is painful. We could improve the code we writ
 
 A web based framework codebase that everyone shares the same codebase for. Allows optimisations by people to benefit everyone simultaneously.
 
-# 3. 
+# 3. Nested search
+
+Applications advertise that they can be searched. When you activate the system wide search, a subquery is made for each application. So on Android, a search for an application that is not installed will create a query onto the Play store.
 
 # Notes
 
