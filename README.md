@@ -19,7 +19,7 @@ Applications advertise that they can be searched. When you activate the system w
 
 # 4. Search Integrated Programming Language
 
-Imports translate to searches and download libraries.
+Usage of undefined functions causes a lookup for a library to handle the request.
 
 https://github.com/samsquire/importless-lang
 
