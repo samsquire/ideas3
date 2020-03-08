@@ -21,7 +21,9 @@ Applications advertise that they can be searched. When you activate the system w
 
 A langauge with search built-in: any use of an undefined symbol causes a lookup request to a server that monitors library packages for exports. When a symbol is found, it is downloaded for the system for use as library code.
 
-https://github.com/samsquire/importless-lang
+See [importless lang for a proof of concept with Python](https://github.com/samsquire/importless-lang)
+
+# 5. 
 
 # Notes
 
