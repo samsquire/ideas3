@@ -19,7 +19,7 @@ Applications advertise that they can be searched. When you activate the system w
 
 # 4. Search Integrated Programming Language
 
-Usage of undefined functions causes a lookup for a library to handle the request.
+A langauge with search built-in: any use of an undefined symbol causes a lookup request to a server that monitors library packages for exports. When a symbol is found, it is downloaded for the system for use as library code.
 
 https://github.com/samsquire/importless-lang
 
