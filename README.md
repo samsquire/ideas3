@@ -15,7 +15,7 @@ A web based framework codebase that everyone shares the same codebase for. Allow
 
 # 3. Nested search
 
-Applications advertise that they can be searched. When you activate the system wide search, a subquery is made for each application. So on Android, a search for an application that is not installed will create a query onto the Play store.
+Applications advertise that they can be searched. When you activate the system wide search, a subquery is made for each application. So on Android, a search for an application that is not installed will create a query onto the Play store amongst a web search with the browser.
 
 # 4. Search Integrated Programming Language
 
