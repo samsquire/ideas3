@@ -23,7 +23,9 @@ A langauge with search built-in: any use of an undefined symbol causes a lookup 
 
 See [importless lang for a proof of concept with Python](https://github.com/samsquire/importless-lang)
 
-# 5. 
+# 5. Forum powered desktop
+
+A deep lever into desktop applications that is powered by a web forum.
 
 # Notes
 
