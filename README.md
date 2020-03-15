@@ -27,6 +27,10 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the-field) into desktop applications that is powered by a web forum.
 
+# 6. Bandwidth chargers
+
+
+
 # Notes
 
 literate programming story introduce test case all together
