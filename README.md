@@ -29,7 +29,7 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 # 6. Bandwidth chargers
 
-
+Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
 # Notes
 
