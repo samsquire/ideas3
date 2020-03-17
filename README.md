@@ -37,7 +37,13 @@ Not all layers of a GUI need to re-drawn during a layout change. This idea is to
 
 # Visual paging
 
+# Latency language
 
+Place data in different boxes.
+
+# Data suction
+
+Flow control
 
 # Notes
 
