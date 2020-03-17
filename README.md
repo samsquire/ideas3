@@ -31,6 +31,14 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
+# 7. Visual re-flow invalidation
+
+Not all layers of a GUI need to re-drawn during a layout change. This idea is to visually map physical regions on the screen to code blocks. If there's no change to the code of these blocks, the divider doesn't need to be re-rendered.
+
+# Visual paging
+
+
+
 # Notes
 
 literate programming story introduce test case all together
