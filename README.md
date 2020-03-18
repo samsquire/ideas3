@@ -35,6 +35,12 @@ Billing for users of bandwidth from services like AWS. So open source projects c
 
 Not all layers of a GUI need to re-drawn during a layout change. This idea is to visually map physical regions on the screen to code blocks. If there's no change to the code of these blocks, the divider doesn't need to be re-rendered.
 
+# 8. Flat HTML
+
+Write HTML with a flat data structure to avoid nested editing.
+
+See https://github.com/samsquire/flat-html
+
 # Visual paging
 
 # Latency language
