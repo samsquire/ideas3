@@ -37,9 +37,11 @@ Not all layers of a GUI need to re-drawn during a layout change. This idea is to
 
 # 8. Flat HTML
 
-Write HTML with a flat data structure to avoid nested editing.
+Write HTML with a flat data structure to avoid nested editing and to stream data more efficiently.
 
-See https://github.com/samsquire/flat-html
+See my repository https://github.com/samsquire/flat-html
+
+# 9.  
 
 Function Mesh
 
