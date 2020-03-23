@@ -41,7 +41,7 @@ Write HTML with a flat data structure to avoid nested editing and to stream data
 
 See my repository https://github.com/samsquire/flat-html
 
-# 9.  
+# 9. 
 
 Function Mesh
 
@@ -63,3 +63,5 @@ Things written as communication protocols are easier to program and reason about
 Turn the GUI into a communication problem.
 
 Permutations and validity.
+
+A data structure that represents a forum or a blog that can be rendered into a CRUD app.
