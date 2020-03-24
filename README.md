@@ -41,7 +41,11 @@ Write HTML with a flat data structure to avoid nested editing and to stream data
 
 See my repository https://github.com/samsquire/flat-html
 
-# 9. 
+# 9. Self perpetuating desktop
+
+Without downloading additional packages, a Linux distribution that can also run as a continuous integration server and build server. This means that the desktop can build .ISOs to distribute itself.
+
+# 10. Time language
 
 Function Mesh
 
