@@ -45,8 +45,19 @@ See my repository https://github.com/samsquire/flat-html
 
 Without downloading additional packages, a Linux distribution that can also run as a continuous integration server and build server. This means that the desktop can build .ISOs to distribute itself.
 
-# 10. Time language
+# 10. Time based paging
 
+When making API calls, track the amount of time it takes to receive 0.3 seconds worth of items and return that many items.
+
+# 11. Timeline language
+
+# 12. Class sharing - ontologic class sharing
+
+The unit of sharing in programming is quite large. It's rare that just a single class or set of classes is shared. I propose we make classes shareable. I would like rich class hierarchies to be shared to share models of how things work. I propose a Forum class and a Network class which are classes of how forums work and how Networks work.
+
+
+
+# Incomplete thoughts and ideas 
 Function Mesh
 
 # Visual paging
