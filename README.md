@@ -49,13 +49,17 @@ Without downloading additional packages, a Linux distribution that can also run 
 
 When making API calls, track the amount of time it takes to receive 0.3 seconds worth of items and return that many items.
 
-# 11. Timeline language
+# 11. Timeline budgeting
+
+A way of adding a budget to each request that is track resource budget usage with request. For example, if you have a budget of each request must take 100 milliseconds, this budget will tell you when you go over the budget and why you went over the budget.
 
 # 12. Class sharing - ontologic class sharing
 
 The unit of sharing in programming is quite large. It's rare that just a single class or set of classes is shared. I propose we make classes shareable. I would like rich class hierarchies to be shared to share models of how things work. I propose a Forum class and a Network class which are classes of how forums work and how Networks work.
 
+# 13. Peer optimizable software
 
+Software that is modular and written at a high level of abstraction can be optimized at the stage of application. I imagine a software viewer which lets users see the decisions made by a piece of software, such as architecture and queries made.
 
 # Incomplete thoughts and ideas 
 Function Mesh
