@@ -61,6 +61,18 @@ The unit of sharing in programming is quite large. It's rare that just a single 
 
 Software that is modular and written at a high level of abstraction can be optimized at the stage of application. I imagine a software viewer which lets users see the decisions made by a piece of software, such as architecture and queries made.
 
+# 14. Distributed transaction protocol with IRC
+
+Use IRC to lock resources in a microservice architecture.
+
+```
+payment-service: g395 LOCK users orders user_id=20
+orders-service: g395 AGREE
+discount-service: g395 AGREE
+
+
+```
+
 # Incomplete thoughts and ideas 
 Function Mesh
 
