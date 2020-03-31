@@ -41,7 +41,7 @@ Write HTML with a flat data structure to avoid nested editing and to stream data
 
 See my repository https://github.com/samsquire/flat-html
 
-![form-streaming](2020-03-31 (1).png)
+![form-streaming](flat-form-streaming.png)
 
 # 9. Self perpetuating desktop
 
