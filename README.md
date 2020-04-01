@@ -64,10 +64,11 @@ The unit of sharing in programming is quite large. It's rare that just a single 
 
 # 13. Peer optimizable software
 
-How can software be written so that other people can optimize it? This idea is so that I can write my software once and get performance optimisations from random people on the internet days after writing it. How do you write optimizable software? Two ways of writing self-optimizable software I can think of are:
+How can software be written so that other people can optimize it? This idea is so that I can write my software once and get performance optimisations from random people on the internet days after writing it. How do you write optimizable software? Some ways of writing self-optimizable software I can think of are:
 
 * Reify (make concrete) technical decisions explicitly as modules in the system and provide a way to map between technical decisions
 * Invert the control of the software so that the software is called by framework rather than as a library.
+* Create interfaces that support usage in different ways
 
 The following are optimisations that can be reified.
 
@@ -78,6 +79,7 @@ The following are optimisations that can be reified.
  * Run in a thread
  * Map reduce
  * Distribute between threads
+ * Distribute across machines
  * Stream
  * Buffer
  * Index
