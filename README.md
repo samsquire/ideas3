@@ -64,7 +64,20 @@ The unit of sharing in programming is quite large. It's rare that just a single 
 
 # 13. Peer optimizable software
 
-Software that is modular and written at a high level of abstraction can be optimized at the stage of application. I imagine a software viewer which lets users see the decisions made by a piece of software, such as architecture and queries made.
+With English explanations of how software works, we can make obvious optimisations based on statements of the problem.
+
+ * Change synchronous to asynchronous
+ * Change asynchronous to synchronous
+ * Partition the problem
+ * Run in a thread
+ * Distribute between threads
+ * Stream
+ * Buffer
+ * Index
+ * Queue
+ * Send asap and flush
+
+Software that is modular and written at a high level of abstraction can be optimized. I imagine a software viewer which lets users see the decisions made by a piece of software, such as architecture and queries made.
 
 # 14. Distributed transaction protocol with IRC
 
