@@ -69,6 +69,7 @@ How can software be written so that other people can optimize it? This idea is s
 * Reify (make concrete) technical decisions explicitly as modules in the system and provide a way to map between technical decisions
 * Invert the control of the software so that the software is called by framework rather than as a library.
 * Create interfaces that support usage in different ways
+* Intent written code
 
 The following are optimisations that can be reified.
 
