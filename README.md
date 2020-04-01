@@ -2,8 +2,9 @@
 
 Some ideas I thought of that I enjoyed thinking about and writing down.
 
-* [100 Ideas for Computing](https://github.com/samsquire/ideas)
-* [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
+* [Follow me on Twitter](http://twitter.com/mrsamuelsquire)
+* The first page of this series [100 Ideas for Computing](https://github.com/samsquire/ideas)
+* The second page of this series [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
 
 # 1. Community Idea: Peer naming
 
