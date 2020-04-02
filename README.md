@@ -98,7 +98,8 @@ Use IRC to lock resources in a microservice architecture.
 initiator: g393 LOCK users orders deliveries
 initiator: g393 update users set last_use = date.now()
 userservice: g393 ok
-initiator g393 insert into orders (user_id, product, qty) values (20, "Schlongs", 10) returning id orderservice: g393 ok
+initiator: g393 insert into orders (user_id, product, qty) values (20, "Schlongs", 10) returning id orderservice: g393 ok
+orderservice: g393 ok
 initiator: insert into deliveries (user_id, order_number, address) values (20, 10, "120 pemwinkle drive, birmingham, uk")
 deliveriesservice: g393 ok
 initiator g393 COMMIT
