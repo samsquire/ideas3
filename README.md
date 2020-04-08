@@ -83,6 +83,7 @@ The following are optimisations that can be reified.
  * Distribute across machines
  * Stream
  * Buffer
+ * Execute as a vector (SIMD)
  * Index
  * Queue
  * Send asap and flush
