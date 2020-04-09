@@ -109,7 +109,13 @@ orderservice: g393 done
 deliveriesservice: g393 done
 ```
 
-# 15. 
+# 15. Beautiful Codebases
+
+Imagine if a codebase was like a magazine that you could flick through. Or print out in a glossy book. Each folder could have a README.
+
+# 16. Collaborative optimisation
+
+
 
 # Incomplete thoughts and ideas 
 Function Mesh
