@@ -111,7 +111,7 @@ deliveriesservice: g393 done
 
 # 15. Beautiful Codebases
 
-Imagine if a codebase was like a magazine that you could flick through. Or print out in a glossy book. Each folder could have a README.
+Imagine if a codebase was like a magazine that you could flick through. Or print out in a glossy book. Each folder has a README and explains its purpose.
 
 # 16. Collaborative optimisation
 
