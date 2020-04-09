@@ -119,7 +119,7 @@ Database plans and histograms are uploaded to a Twitter of optimization for hand
 
 # 17. Query database
 
-A database system that stores queries instead of just data. The data storage format is optimised to fulfil the stored queries and to meet read and write budgets of the queries. So the database might decide to store in column orientated style if the query uses the whole table.
+A database system that stores queries like stored procedures but uses them to optimize data storage format. The queries are analaysed to determine the optimal data structure make the query fast at reading and writing. The data storage format is optimised to fulfil the stored queries and to meet read and write budgets of the queries. So the database might decide to store in column orientated style if the query uses the whole table.
 
 The database would take consideration of the data structure of queries, if the data to be retrieved has various nested associations, it could choose to use a document orientated storage mode rather than one that uses joins over row based data.
 
