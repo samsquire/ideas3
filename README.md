@@ -117,6 +117,10 @@ Imagine if a codebase was like a magazine that you could flick through. Or print
 
 Database plans and histograms are uploaded to a Twitter of optimization for handmade plan optimisations.
 
+# 17. Query database
+
+
+
 # Incomplete thoughts and ideas 
 Function Mesh
 
