@@ -115,7 +115,7 @@ Imagine if a codebase was like a magazine that you could flick through. Or print
 
 # 16. Collaborative optimisation
 
-
+Database plans and histograms are uploaded to a Twitter of optimization for handmade plan optimisations.
 
 # Incomplete thoughts and ideas 
 Function Mesh
