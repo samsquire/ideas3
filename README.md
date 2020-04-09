@@ -46,7 +46,7 @@ See my repository https://github.com/samsquire/flat-html
 
 # 9. Self perpetuating desktop
 
-Without downloading additional packages, a Linux distribution that can also run as a continuous integration server and build server. This means that the desktop can build .ISOs to distribute itself.
+Without downloading additional packages, a Linux distribution that can also run as a continuous integration server and build server. This means that the desktop can build .ISOs to distribute itself. The desktop can also build any package that is available in package repositories.
 
 # 10. Time based paging
 
