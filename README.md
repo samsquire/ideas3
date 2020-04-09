@@ -119,7 +119,7 @@ Database plans and histograms are uploaded to a Twitter of optimization for hand
 
 # 17. Query database
 
-
+A database system that stores queries instead of just data. The data storage format is optimised to fulfil the stored queries and to meet read and write budgets of the queries. So the database might decide to store in column orientated style if the query against it uses the whole table.
 
 # Incomplete thoughts and ideas 
 Function Mesh
