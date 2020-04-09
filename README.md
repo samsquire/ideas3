@@ -113,7 +113,7 @@ deliveriesservice: g393 done
 
 Imagine if a codebase was like a magazine that you could flick through. Or print out in a glossy book. Each folder has a README and explains its purpose.
 
-# 16. Collaborative optimisation
+# 16. Community Idea: Collaborative optimisation
 
 Database plans and histograms are uploaded to a Twitter of optimization for handmade plan optimisations.
 
