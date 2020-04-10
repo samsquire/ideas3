@@ -121,12 +121,13 @@ Database plans and histograms are uploaded to a Twitter of optimization for hand
 
 A database system that stores queries like stored procedures but uses them to optimize data storage format. The queries are analaysed to determine the optimal data structure to make the query fast at reading and writing. The data storage format is optimised to fulfil the stored queries and to meet read and write budgets of the queries.
 
-* The database might decide to store in column orientated style if a query uses the whole table.
+* The database might decide to store data in column orientated style if a query uses the whole table.
 * The database can be automatically sharded for queries like `select * from table where category == "BLAH"` in this scenario, the rows matching "BLAH" can be stored in a different file. I call this particular optimisation table promotion.
 * For a join such as `select people.firstname, orders.name from people join orders on people.id = orders.person_id where people.firstname = 'fuz46'` we can store orders by people. If we were using LevelDB, we could store a key "person-1F40-order-0002"
 * The database would take consideration of the data structure of queries, if the data to be retrieved has various nested associations, it could choose to use a document orientated storage mode rather than one that uses joins over row based data.
 
 # 18. 
+
 
 
 # For loops flow control
