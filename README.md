@@ -127,7 +127,7 @@ A database system that stores queries like stored procedures but uses the plan o
 * The database would take consideration of the data structure of queries, if the data to be retrieved has various nested associations, it could choose to use a document orientated storage mode rather than one that uses joins over row based data.
 
 # 18. 
-
+ 
 
 
 # For loops flow control
