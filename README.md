@@ -126,8 +126,12 @@ A database system that stores queries like stored procedures but uses the plan o
 * For a join such as `select people.firstname, orders.name from people join orders on people.id = orders.person_id where people.firstname = 'fuz46'` we can store orders by people. If we were using LevelDB, we could store a key "person-1F40-order-0002"
 * The database would take consideration of the data structure of queries, if the data to be retrieved has various nested associations, it could choose to use a document orientated storage mode rather than one that uses joins over row based data.
 
-# 18. 
- 
+# 18. Non-leaf framework
+
+When we write a request handler for our web handler, with most frameworks we are typically writing functions that are leaf nodes of the stack. This idea is how do you write a framework where you are not so lonely, that your code is being used as an input to other functions in the stack.
+
+* performance testing, timeline budgeting
+* optimisations
 
 
 # For loops flow control
