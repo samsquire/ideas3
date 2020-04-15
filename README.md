@@ -128,10 +128,13 @@ A database system that stores queries like stored procedures but uses the plan o
 
 # 18. Non-leaf framework
 
-When we write a request handler in a web framework, with most frameworks we are typically writing functions that are leaf nodes of the stack. This idea is how do you write a framework where you are not so lonely, that your code is being used a callback to other parts of the stack.
+When we write a request handler in a web framework, with most frameworks we are typically writing functions that are leaf nodes of the stack. This idea is to write a framework where your code is not so lonely, and your code is callback to other parts of the stack.
 
 * Your code is hosted: it is ran with performance testing, timeline budgeting
 * Your code implements an interface and has multiple entry points.
+* Your code is part of a wider circuit
+
+# 19. 
 
 # For loops flow control
 
