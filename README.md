@@ -140,7 +140,9 @@ In most frameworks, it is dubious what the framework does for you.
 
 Fetch data on mouseover, in the background for perceived performance.
 
-# 20. 
+# 20. High latency desktop
+
+A desktop designed to be used over a slow network connection. With local queuing of operations.
 
 # For loops flow control
 
