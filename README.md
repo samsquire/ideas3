@@ -134,7 +134,13 @@ When we write a request handler in a web framework, with most frameworks we are 
 * Your code implements an interface and has multiple entry points.
 * Your code is part of a wider circuit
 
-# 19. 
+In most frameworks, it is dubious what the framework does for you.
+
+# 19. Mouseover fetch
+
+Fetch data on mouseover, in the background for perceived performance.
+
+# 20. 
 
 # For loops flow control
 
