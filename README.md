@@ -1,6 +1,6 @@
 # An Extra 100 Ideas for Computing
 
-Some ideas I thought of that I enjoyed thinking about and writing down.
+Some ideas for computers I thought of that I enjoyed thinking about and writing down.
 
 * [Follow me on Twitter](http://twitter.com/mrsamuelsquire)
 * The first page of this series [100 Ideas for Computing](https://github.com/samsquire/ideas)
