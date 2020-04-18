@@ -140,14 +140,15 @@ In most frameworks, it is dubious what the framework does for you.
 
 Fetch data on mouseover, in the background for perceived performance.
 
-# 20. High latency desktop
+# 20. High latency code modification system
 
-Imagine a computer that has high bandwidth and high latency. The system would be frustrating to use with typical software. An approach to make this bearable is the following:
+Imagine a remote computer that has high bandwidth but high latency. The system would be frustrating to use with typical software. Assuming we can edit files locally without high latency. An approach to make this bearable is the following:
 
- * **Rewind and attempt**: Make changes to files independent and queue them together. If they both work independenly, merge them together automatically.
- * **Write on-success code for each code submitted** Write a detector of success.
- * **Nested Sessions**
- * **Fuzzy matchings** 
+ * **Isolated changes**: Make changes to parts of files independent and queue them together. If they both work with tests independenly, merge them together automatically.
+ * **Success detectors** Write a detector of success, if some thing works the way you want it to. For example, if you're trying to get a Docker image built, you would have a detector for docker image being built that passes some test.
+ * **Nested Branched Sessions** You cannot work serially with high latency because you depend on the output of the previous step. So instead you work on things in parallel but independently.
+ * **Fuzzy success matchings** If you wrote an output match for success, it is fuzzily matched against output files. 
+ * **Notifications interface** The key to productivity with a high latency system is that you're always working while the remote machine is working. So we have a strong notifications interface in the browser.
 
 # 21. 
 
