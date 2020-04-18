@@ -140,7 +140,7 @@ In most frameworks, it is dubious what the framework does for you.
 
 Fetch data on mouseover, in the background for perceived performance.
 
-# 20. High latency code modification system
+# 20. High latency desktop
 
 Imagine a remote computer that has high bandwidth but high latency. The system would be frustrating to use with typical software. Assuming we can edit files locally without high latency. An approach to make this bearable is the following:
 
