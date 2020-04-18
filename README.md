@@ -142,7 +142,14 @@ Fetch data on mouseover, in the background for perceived performance.
 
 # 20. High latency desktop
 
-A desktop designed to be used over a slow network connection. With local queuing of operations.
+Imagine a computer that has high bandwidth and high latency. The system would be frustrating to use with typical software. An approach to make this bearable is the following:
+
+ * **Rewind and attempt**: Make changes to files independent and queue them together. If they both work independenly, merge them together automatically.
+ * **Write on-success code for each code submitted** Write a detector of success.
+ * **Nested Sessions**
+ * **Fuzzy matchings** 
+
+# 21. 
 
 # For loops flow control
 
