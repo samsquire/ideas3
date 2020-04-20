@@ -160,9 +160,12 @@ Systems should have a ceremony for calling an external system. I propose a gener
 * **be retryable**
 * **be idempotent**
 
-# 22. Error subsystem
+# 22. Error subsystem and server
 
-Software is linked to an error server. The error server is responsible for tracking potential errors that could happen at all times. Allows the definition of error handlers and combined error handling.
+Software is linked to an error server. The error server is responsible for tracking potential errors that could happen at all times. 
+
+* Allows the definition of error handlers and combined error handling.
+* Outsource exception handling to the error server.
 
 # For loops flow control
 
