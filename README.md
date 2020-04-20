@@ -154,6 +154,7 @@ Imagine a remote computer that has high bandwidth but high latency. The system w
 
 Call sites should have a ceremony for calling an external system. I propose a general purpose library external call API:
 
+* **written to a log first**
 * **be queuable**
 * **be traceable**
 * **be retryable**
