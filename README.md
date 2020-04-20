@@ -165,6 +165,7 @@ Systems should have a ceremony for calling an external system. I propose a gener
 Software is linked to an error server. The error server is responsible for tracking potential errors that could happen at all times. At startup, an error specification is loaded.
 
 * Allows the definition of error handlers and combined error handling.
+* Allows centralised specification of error contingency. 
 * Outsource exception handling to the error server.
 * Define what should happen while some thing fails while doing some other thing.
 
