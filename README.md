@@ -162,7 +162,7 @@ Systems should have a ceremony for calling an external system. I propose a gener
 
 # 22. Error subsystem and server
 
-Software is linked to an error server. The error server is responsible for tracking potential errors that could happen at any time. At startup, an error specification is loaded and the error specifications defines that actions to take if a given process errors.
+Software is tied to an error server. The error server is responsible for monitoring code for places where exceptions can be thrown. At startup, an error specification is loaded and the error specifications defines that actions to take if a given process errors.
 
 * Allows the centralised definition of error handlers and combined error handling.
 * Allows centralised specification of error contingency. 
