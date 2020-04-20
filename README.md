@@ -152,13 +152,17 @@ Imagine a remote computer that has high bandwidth but high latency. The system w
 
 # 21. Call site library
 
-Call sites should have a ceremony for calling an external system. I propose a general purpose library external call API:
+Systems should have a ceremony for calling an external system. I propose a general purpose library external call API:
 
 * **written to a log first**
 * **be queuable**
 * **be traceable**
 * **be retryable**
 * **be idempotent**
+
+# 22. Error subsystem
+
+Software is linked to an error server. The error server is responsible for tracking potential errors that could happen at all times. Allows the definition of error handlers and combined error handling.
 
 # For loops flow control
 
