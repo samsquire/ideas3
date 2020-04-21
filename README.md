@@ -162,7 +162,13 @@ Systems should have a ceremony for calling an external system. I propose a gener
 
 # 22. Error subsystem and server
 
-Software is tied to an error server with an error subsystem. The error server is responsible for monitoring a codebase for exceptions that could be thrown. The error server should have a GUI which acts like a database of errors that can be thrown at any given time. It should be possible to search the codebase for call sites. At startup the error subsystem is loaded with an error specification and the error specifications defines that actions to take if a given request errors.
+Software is tied to an error server with an error subsystem. The error server is:
+* responsible for monitoring a codebase for exceptions that could be thrown.
+* should have a GUI which acts like a database of errors that can be thrown at any given time.
+* It should be possible to search the codebase for call sites.
+* Has a studio component for running simulations of different combinations of errors.
+
+At startup the error subsystem is loaded with an error specification and the error specifications defines that actions to take if a given request errors.
 
 * Allows the centralised definition of error handlers and what should happen when errors happen while recovering from errors.
 * Allows centralised specification of error contingency. 
