@@ -176,7 +176,7 @@ In a given piece of software, at startup the error subsystem is loaded with an e
 * Define what should happen while some thing fails while doing some other thing.
 * Errors are provided with full context of the initiating request.
 
-# 23. Cache aware programming
+# 23. Cache aware programming libraries
 
 It should be possible to write a system that is cache-aware. There is process for loading data into each of the caches in the architecture. Even if its a warm up loop that loads data through the system. There are multiple levels of caches in modern computer systems:
 
@@ -187,9 +187,11 @@ It should be possible to write a system that is cache-aware. There is process fo
 
 # 24. Personal Knowledge subsystem
 
+A personal knowledgebase of things learned.
+
 # 25. Surface programming
 
-There's no digital equivalent of the proposition of putting sone thing on top of another in computing.
+There's no digital equivalent of the proposition of putting some thing on top of another in computing.
 
 # 26 Interleaved client/server language
 
