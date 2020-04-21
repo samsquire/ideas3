@@ -195,10 +195,9 @@ There's few digital equivalent of the place prepositions of putting some thing o
 
 Some surfaces I'd like to rest my code upon:
 
- * A large grid where any function placed in the grid is deployed and scaled.
+ * **Function scaling** A large grid where any function placed in the grid is deployed and scaled.
  
- A surface is a precanned environment where every thing has already been set up for you to use.
-
+ A surface is a precanned environment where every thing has already been set up for you to use and has a surface to place things on top of.
 
 # 26. 
 
