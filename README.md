@@ -200,9 +200,7 @@ Some surfaces I'd like to rest my code upon:
  A surface is a precanned environment where every thing has already been set up for you to use.
 
 
-# 26 Interleaved client/server language
-
-Write both halves of the client/server in one go.
+# 26. 
 
 # For loops flow control
 
