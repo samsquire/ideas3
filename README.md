@@ -191,7 +191,7 @@ A personal knowledgebase of things learned.
 
 # 25. Surface programming
 
-There's no digital equivalent of the proposition of putting some thing on top of another in computing. When we talk of tech stacks, we build on top of other things by using and depending on. There could be an interface of a surface and things placed on top of the surface act in a certain way. A surface offers a promise for things placed upon it. Like a game engine, objects in the engine obey the laws of the engine.
+There's few digital equivalent of the place prepositions of putting some thing on top of another in computing - except maybe Docker files. When we talk of tech stacks, we build on top of other things by using and depending on. There could be an interface of a surface and things placed on top of the surface act in a certain way. A surface offers a promise for things placed upon it. Like a game engine, objects in the engine obey the laws of the engine.
 
 Some surfaces I'd like to rest my code upon:
 
