@@ -178,11 +178,12 @@ In a given piece of software, at startup the error subsystem is loaded with an e
 
 # 23. Cache aware programming
 
-It should be possible to write a system that is cache-aware. There are multiple levels of caches in modern computer systems:
+It should be possible to write a system that is cache-aware. When I say cache aware, I mean there is process for loading data into each of the caches in the architecture. Even if its a warm up loop that loads data through the system. There are multiple levels of caches in modern computer systems:
 
-* CPU caches: L1, L2, L3 on CPU caches
+* CPU caches: L1, L2, L3
 * File system caches
 * Disk firmware caches
+* Network buffer caches
 
 # 24. Personal Knowledge subsystem
 
