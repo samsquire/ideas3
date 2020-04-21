@@ -176,7 +176,19 @@ In a given piece of software, at startup the error subsystem is loaded with an e
 * Define what should happen while some thing fails while doing some other thing.
 * Errors are provided with full context of the initiating request.
 
-# 23. 
+# 23. Cache aware programming
+
+It should be possible to write a system that is cache-aware. There are multiple levels of caches in modern computer systems:
+
+* CPU caches: L1, L2, L3 on CPU caches
+* File system caches
+* Disk firmware caches
+
+# 24. Personal Knowledge subsystem
+
+# 25. Surface programming
+
+
 
 # For loops flow control
 
