@@ -191,7 +191,7 @@ A personal knowledgebase of things learned.
 
 # 25. Surface programming
 
-There's no digital equivalent of the proposition of putting some thing on top of another in computing.
+There's no digital equivalent of the proposition of putting some thing on top of another in computing. When we talk of tech stacks, there's no act of building on-top of a stack besides using the library. There needs to be a way to reify the act of building some thing 'on-top' of another thing.
 
 # 26 Interleaved client/server language
 
