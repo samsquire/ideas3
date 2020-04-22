@@ -209,12 +209,14 @@ Define what should be on a web page by making various 'has a' declarations which
 
 ```
 contactsPage is page
+standardLayout hasA logo
+contactsPage hasThingsFrom standardLayout
 contactsPage hasA contactUsForm
 contactUsForm hasA field:email
 contactUsForm hasA textarea:body
 ```
 
-Components have data dependencies which get automatically ran queries to populate data for them.
+Components have data dependencies which causes data queries to automatically populate data for them.
 
 # 28. 
 
