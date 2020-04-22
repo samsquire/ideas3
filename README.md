@@ -166,7 +166,8 @@ Software is tied to an error server with an error subsystem. The error server is
 * responsible for monitoring a codebase for exceptions that could be thrown.
 * should have a GUI which acts like a searchable database of errors that can be thrown
 * It tracks call sites where errors are possible
-* Has a studio component for running simulations of various exceptions that if thrown, what would happen to the system as a whole
+* Has a studio component for running simulations of various exceptions that if thrown, run what-if scenarios against the system as a whole
+* Allows you to define error handling later, when the error is better understood.
 
 In a given piece of software, at startup the error subsystem is loaded with an error specification and the error specifications defines that actions to take if a given request errors.
 
@@ -201,7 +202,7 @@ Some surfaces I'd like to rest my code upon:
 
 # 26. Title sparklines
 
-A user surfaceable measurement that is displayed when there is a progress bar and when an application is busy. It shows the throughput per unit time that some thing is taking. Perhaps copying files or a network connection or network transfer. It can show in the titlebar. There should always be a throughput number for reference and comparison.
+A user surfaceable measurement that is displayed when there is a progress bar and when an application is busy. It shows the throughput per unit time that some thing is taking. Perhaps copying files or a network connection or network transfer. It can show in the titlebar. There should always be a visible throughput number for reference and comparison.
 
 # 27. Has-a queries
 
