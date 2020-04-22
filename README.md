@@ -205,17 +205,18 @@ A user surfaceable measurement that is displayed when there is a progress bar an
 
 # 27. Has-a queries
 
-Define what should be on a web page by making various 'has a' declarations which specify what components should be rendered on the page. Let additive guis handle the layout.
+Define what should be on a web page by making various 'has a' declarations which specify what components should be rendered on the page. 
 
 ```
+contactsPage is page
 contactsPage hasA contactUsForm
 contactUsForm hasA field:email
 contactUsForm hasA textarea:body
 ```
 
-Components have data dependencies which get automatically ran to populate data for them.
+Components have data dependencies which get automatically ran queries to populate data for them.
 
-# 
+# 28. 
 
 # For loops flow control
 
