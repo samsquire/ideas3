@@ -199,7 +199,12 @@ Some surfaces I'd like to rest my code upon:
  
  A surface is a precanned environment where every thing has already been set up for you to use and has a surface to place things on top of.
 
-# 26. 
+# 26. Title sparklines
+
+A user surfaceable measurement that is displayed when there is a progress bar and when an application is busy. It shows the throughput per unit time that some thing is taking. Perhaps copying files or a network connection or network transfer. It can show in the titlebar. There should always be a throughput number for reference and comparison.
+
+# 27. 
+
 
 # For loops flow control
 
