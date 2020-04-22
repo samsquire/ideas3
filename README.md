@@ -226,7 +226,9 @@ When you're reasonably sure that the software won't crash and the power won't go
 
  * Postgres, `synchronous_commit`, `fsync` settings
 
-# 29. 
+# 29. Per-server log
+
+When a request is received, serialize the request and write it to the log in the background. Do not acknowledge success until it is written to the per-server log. Aggregate the per-server write ahead logs every few minutes.
 
 # For loops flow control
 
