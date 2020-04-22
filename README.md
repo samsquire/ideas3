@@ -203,7 +203,15 @@ Some surfaces I'd like to rest my code upon:
 
 A user surfaceable measurement that is displayed when there is a progress bar and when an application is busy. It shows the throughput per unit time that some thing is taking. Perhaps copying files or a network connection or network transfer. It can show in the titlebar. There should always be a throughput number for reference and comparison.
 
-# 27. 
+# 27. Has-a queries
+
+Define what should be on a web page by making various 'has a' declarations which specify what should be rendered on the page. Let additive guis handle the layout.
+
+```
+contactsPage hasA contactForm
+```
+
+Components have data dependencies which get automatically ran to populate data for them.
 
 
 # For loops flow control
