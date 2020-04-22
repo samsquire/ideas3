@@ -20,7 +20,7 @@ Applications advertise that they can be searched. When you activate the system w
 
 # 4. Search Integrated Programming Language
 
-A langauge with search built-in: any use of an undefined symbol causes a lookup request to a server that monitors library packages for exports. When a symbol is found, it is downloaded for the system for use as library code.
+A language with search built-in: any use of an undefined symbol causes a lookup request to a server that monitors library packages for exports. When a symbol is found, it is downloaded for the system for use as library code.
 
 See [importless lang for a proof of concept with Python](https://github.com/samsquire/importless-lang)
 
@@ -226,9 +226,13 @@ When you're reasonably sure that the software won't crash and the power won't go
 
  * Postgres, `synchronous_commit`, `fsync` settings
 
-# 29. Per-server log
+# 29. Per-server request log
 
-When a request is received, serialize the request and write it to the log in the background. Do not acknowledge success until it is written to the per-server log. Aggregate the per-server write ahead logs every few minutes.
+When a request is received, serialize the request and write it to the machine readable log in the background. Do not acknowledge success until it is written to the per-server log. Aggregate the per-server write ahead logs every few minutes.
+
+# 30. Algorithm servers
+
+With [data structure configurer](https://github.com/samsquire/ideas2#96-data-structure-configurer), we can have telemetry about what's going through different algorithms and this can be uploaded to an algorithm server. People solve challenges for different variations of the same problem.
 
 # For loops flow control
 
