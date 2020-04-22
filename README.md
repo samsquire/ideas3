@@ -32,9 +32,10 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
-# 7. Visual re-flow invalidation
+# 7. Automatic code to asset at runtime
 
-Not all layers of a GUI need to re-drawn during a layout change. This idea is to visually map physical regions on the screen to code blocks. If there's no change to the code of these blocks, the divider doesn't need to be re-rendered.
+Rendering engines throw a lot of things away when rendering content. Not all layers of a GUI need to re-rendered during a layout change. This idea is to visually map physical regions on the screen to the Javascript that creates it. If there's no change to the code of these blocks, what is rendered does not need to be re-rendered.
+
 
 # 8. Flat HTML
 
@@ -219,7 +220,13 @@ contactUsForm hasA textarea:body
 
 Components have data dependencies which causes data queries to automatically populate data for them.
 
-# 28. 
+# 28. Accelerated mode, temporary write safety off
+
+When you're reasonably sure that the software won't crash and the power won't go out. The ability to scale down write safety settings at run time for accelerated performance. Currently this requires restarts for most software.
+
+ * Postgres, `synchronous_commit`, `fsync` settings
+
+# 29. 
 
 # For loops flow control
 
