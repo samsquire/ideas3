@@ -232,7 +232,7 @@ When a request is received, serialize the request and write it to the machine re
 
 # 30. Algorithm servers
 
-With [data structure configurer](https://github.com/samsquire/ideas2#96-data-structure-configurer), we can have telemetry about what's going through different algorithms and this can be uploaded to an algorithm server. People solve challenges for different variations of the same problem.
+With [data structure imports](https://github.com/samsquire/ideas2#96-data-structure-configurer), we can have telemetry about what algorithms people are requesting and see what data is running through various algorithms and this can be uploaded to an algorithm server. People solve challenges for different variations of the same problem to make things faster.
 
 # For loops flow control
 
