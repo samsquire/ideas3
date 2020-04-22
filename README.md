@@ -236,6 +236,9 @@ With [data structure imports](https://github.com/samsquire/ideas2#96-data-struct
 
 For data that is not private, we can automatically upload data that is running through various algorithms and this can be uploaded to an algorithm server. People can solve challenges for different variations of the same problem to make things faster.
 
+
+Photo by Markus Spiske on Unsplash
+
 # For loops flow control
 
 # Incomplete thoughts and ideas 
