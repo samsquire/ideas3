@@ -246,9 +246,11 @@ The goal of this idea is that there is a public interchange where you can see li
 ![](markus-spiske-kK7uPfb2YWU-unsplash.jpg)
 Photo by [Markus Spiske](https://unsplash.com/photos/kK7uPfb2YWU) on Unsplash
 
-# 31. 
+# 31. API Coverage API
 
+When you run code that uses an API you run a coverage trace against your usage of the API. This is like a unit testing coverage test except it records all usage of calls made to the API.
 
+This is submitted to the API owner for detecting when changes will break library users.
 
 # For loops flow control
 
