@@ -6,6 +6,11 @@ Some ideas for computers I thought of that I enjoyed thinking about and writing 
 * The first page of this series [100 Ideas for Computing](https://github.com/samsquire/ideas)
 * The second page of this series [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
 
+Themes:
+
+* global deduplication of effort
+* software breakage no-more
+
 # 1. Community Idea: Peer naming
 
 Reading code that uses awful names is painful. We could improve the code we write by collecting peer contributed and voted names.
@@ -232,14 +237,17 @@ When a request is received, serialize the request and write it to the machine re
 
 # 30. Algorithm servers
 
-With [data structure imports](https://github.com/samsquire/ideas2#96-data-structure-configurer), we can have telemetry about what algorithms people are requesting. We can have a Leetcode style website where people compete and implement requested algorithms for different constraints. 
+With [configurable imports](https://github.com/samsquire/ideas2#96-data-structure-configurer), we can have telemetry about what algorithms people are requesting. We can have a Leetcode style website where people's solutions compete and implement requested algorithms for different constraints. We know what's in demand. 
 
-For data that is not private, we can automatically upload data that is running through various algorithms and this can be uploaded to an algorithm server. People can solve challenges for different variations of the same problem to make things faster.
+For data that is not private, we can automatically upload data that is running through various algorithms and this can be uploaded to the algorithm server. People can solve challenges for different variations of the same problem to make things faster.
 
-The goal of this idea is that there is a public interchange where you can see live algorithms running against live data, like a fusebox.
+The goal of this idea is that there is a public interchange where you can see live algorithms running against live data, like a fusebox. People can submit code that makes people's usages faster.
 
 ![](markus-spiske-kK7uPfb2YWU-unsplash.jpg)
 Photo by [Markus Spiske](https://unsplash.com/photos/kK7uPfb2YWU) on Unsplash
+
+# 31. 
+
 
 
 # For loops flow control
