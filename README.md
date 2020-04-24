@@ -252,6 +252,16 @@ When an API is used, the usage of the API is reported to the API developers so t
 
 This could be accomplished by using a code coverage tool to trace calls to APIs.
 
+# 32. Naive is correct
+
+The naive way of doing some thing should be the correct way to do it. Optimisations behind the scenes can do things efficiently.
+
+For example, there is a natural paging size for each object in your system. For a GUI component it might be how many items can be displayed efficiently.
+
+# 33. 
+
+# Query Optimisers
+
 # For loops flow control
 
 # Incomplete thoughts and ideas 
