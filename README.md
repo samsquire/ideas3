@@ -241,7 +241,7 @@ With [configurable imports](https://github.com/samsquire/ideas2#96-data-structur
 
 For data that is not private, we can automatically upload data that is running through various algorithms and this can be uploaded to the algorithm server. People can solve challenges for different variations of the same problem to make things faster.
 
-The goal of this idea is that there is a public interchange where you can see live algorithms running against live data, like a fusebox. People can submit code that makes people's usages faster.
+The goal of this idea is that there is a public interchange where you can see live algorithms running against live data, like a fusebox. People can submit code and optimizations to the public interchange to benefit everybody at once.
 
 ![](markus-spiske-kK7uPfb2YWU-unsplash.jpg)
 Photo by [Markus Spiske](https://unsplash.com/photos/kK7uPfb2YWU) on Unsplash
