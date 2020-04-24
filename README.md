@@ -246,11 +246,11 @@ The goal of this idea is that there is a public interchange where you can see li
 ![](markus-spiske-kK7uPfb2YWU-unsplash.jpg)
 Photo by [Markus Spiske](https://unsplash.com/photos/kK7uPfb2YWU) on Unsplash
 
-# 31. API Coverage API
+# 31. API usage telemetry
 
-When you run code that uses an API you run a coverage trace against your usage of the API. This is like a unit testing coverage test except it records all usage of calls made to the API.
+When an API is used, the usage of the API is reported to the API developers so they know if they will break any consumer.
 
-This is submitted to the API owner for detecting when changes will break library users.
+This could be accomplished by using a code coverage tool to trace calls to APIs.
 
 # For loops flow control
 
