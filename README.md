@@ -37,9 +37,7 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
-# 7. Automatic code to asset at runtime
-
-Rendering engines throw a lot of things away when rendering content. Not all layers of a GUI need to re-rendered during a layout change. This idea is to visually map physical regions on the screen to the Javascript that creates it. If there's no change to the code of these blocks, what is rendered does not need to be re-rendered.
+# 7. 
 
 
 # 8. Flat HTML
