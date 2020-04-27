@@ -37,8 +37,9 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
-# 7. 
+# 7. Co-insurance app
 
+Create self insurance for your family and friends. Everyone pays into a pot and it is saved up in case of needing to claim.
 
 # 8. Flat HTML
 
