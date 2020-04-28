@@ -37,7 +37,9 @@ A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--testing-in-the
 
 Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
-# 7. 
+# 7. Rendering engine asset detection
+
+Rendering engines throw a lot of content away. I wonder if some content can be recognised as being static, as unchanging and re-used between frames. Or If there's a list of thousand items, is it possible to recognise that the content of each list item is static and the only thing that changes is the ordering. So all that's needed is rendering cached bitmaps in a unique ordering.
 
 # 8. Flat HTML
 
