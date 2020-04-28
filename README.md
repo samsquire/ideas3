@@ -257,7 +257,9 @@ The naive way of doing some thing should be the correct way to do it. Optimisati
 
 For example, there is a natural paging size for each object in your system. For a GUI component it might be how many items can be displayed efficiently.
 
-# 33. 
+# 33. Person stack
+
+Distill a tech stack into those people responsible and who worked on it to buy them all beer or support them via patronage.
 
 # Query Optimisers
 
