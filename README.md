@@ -269,7 +269,7 @@ A community where every reply is a piece of code. You must express your reply as
 
 A digital organism, such that each phone is a node in a network of people that work together to fulfil some common goal. The organism software has a menu system that looks like the following:
 
-* **Move** To physical move assets around
+* **Move** To physical move assets around, To take up some kind of position in the world
 * **Respire** Ccontrolled burning of resources, such as constructing new things or commanding work to be done
 * **Sensing** seeing, information gathering 
 * **Growth** Advertising
