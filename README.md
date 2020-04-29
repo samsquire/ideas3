@@ -261,6 +261,8 @@ For example, there is a natural paging size for each object in your system. For 
 
 Distill a tech stack into those people responsible and who worked on it to buy them all beer or support them via patronage.
 
+Depending on a library or piece of software is to depend on a chain of people and organisations (that map to people). These people should be rewarded. Think of this idea as an index
+
 # 34. Community Idea: Talk with code
 
 A community where every reply is a piece of code. You must express your reply as code.
