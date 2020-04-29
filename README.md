@@ -153,7 +153,7 @@ Imagine a remote computer that has high bandwidth but high latency. The system w
  * **Isolated changes**: Make changes to parts of files independent and queue them together. If they both work with tests independently, merge them together.
  * **Success detectors** Write a detector of success, it detects if some thing works. For example, if you're trying to get a Docker image built, you would have a detector for docker image being built that passes some test. You might want to use the output name somewhere, in a future session. You can use a placeholder to do so.
  * **Fuzzy success matchings** If you wrote an output match for success, it is fuzzily matched.
- * **Notifications interface** The key to productivity with a high latency system is that you're always working while the remote machine is working. So we have a strong notifications interface in the browser.
+ * **Notifications interface** The key to productivity with a high latency system is that you're always working while the remote machine is working. So we have a notifications interface that lets you create a session from a notification of completedness.
 
 # 21. Call site library
 
