@@ -265,7 +265,19 @@ Distill a tech stack into those people responsible and who worked on it to buy t
 
 A community where every reply is a piece of code. You must express your reply as code.
 
-# 35. 
+# 35. MRSGREN
+
+A digital organism, such that each phone is a node in a network of people that work together to fulfil some common goal. The organism software has a menu system that looks like the following:
+
+* **Move** To physical move assets around
+* **Respire** Ccontrolled burning of resources, such as constructing new things or commanding work to be done
+* **Sensing** seeing, information gathering 
+* **Growth** Advertising
+* **Reproduction** Information needed to create additional nodes
+* **Excretion** Cleaning up
+* **Nutrition** Acquring resources and new people.
+
+# 36. 
 
 # Query Optimisers
 
