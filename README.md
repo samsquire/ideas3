@@ -279,9 +279,9 @@ A digital organism, such that each phone is a node in a network of people that w
 * **Excretion** Cleaning up
 * **Nutrition** Acquring resources and new people.
 
-# 36. Personal API
+# 36. Communication API
 
-Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose a Personal API for every person. Each person can create an interface to their emails for how to interact with that person.
+Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose a communication API for every person. Each person can create an interface to their emails.
 
 # Incomplete thoughts and ideas 
 Function Mesh
