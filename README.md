@@ -272,21 +272,23 @@ A community where every reply is a piece of code. You must express your reply as
 A digital organism, such that each phone is a node in a network of people that work together to fulfil some common goal. The organism software has a menu system that looks like the following:
 
 * **Move** To physical move assets around, To take up some kind of position in the world
-* **Respire** Ccontrolled burning of resources, such as constructing new things or commanding work to be done
+* **Respire** Controlled burning of resources, such as constructing new things or commanding work to be done
 * **Sensing** seeing, information gathering 
 * **Growth** Advertising
 * **Reproduction** Information needed to create additional nodes
 * **Excretion** Cleaning up
 * **Nutrition** Acquring resources and new people.
 
-# 36. 
+# 36. Personal API
+
+Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose a Personal API for every person. Each person can create an interface to their emails for how to interact with that person.
+
+# Incomplete thoughts and ideas 
+Function Mesh
 
 # Query Optimisers
 
 # For loops flow control
-
-# Incomplete thoughts and ideas 
-Function Mesh
 
 # Visual paging
 
