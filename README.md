@@ -281,7 +281,7 @@ A digital organism, such that each phone is a node in a network of people that w
 
 # 36. Person Coordination API
 
-Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose a communication API for every person. Each person can create an interface to their emails.
+Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose people define an API for themselves in how to get them to do what you want them to do.
 
 # 37. Data Flows and queries per widget
 
