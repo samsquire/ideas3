@@ -279,9 +279,25 @@ A digital organism, such that each phone is a node in a network of people that w
 * **Excretion** Cleaning up
 * **Nutrition** Acquring resources and new people.
 
-# 36. Communication API
+# 36. Person Coordination API
 
 Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose a communication API for every person. Each person can create an interface to their emails.
+
+# 37. Data Flows and queries per widget
+
+Generate GUI data population with a data flow description of the GUI. For example, in an email client, emails flow into folders, when folders are clicked change the email list which when clicked flows into the mail preview.
+
+Alternatively, each click changes the query of the widgets on the screen. Clicking an email folder changes the results that are in the mail list.
+
+# 38. Built in desktop Queue
+
+
+
+# 39. Technical documentaries
+
+We have video recording and have the documentary format. It would be nice to see some open source documentaries about open source products.
+
+# 40. 
 
 # Incomplete thoughts and ideas 
 Function Mesh
