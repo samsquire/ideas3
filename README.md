@@ -281,7 +281,7 @@ A digital organism, such that each phone is a node in a network of people that w
 
 # 36. Person Coordination API
 
-Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose people define an API for themselves in how to get them to do what you want them to do.
+Each person in an organisation might want to control digitally how information is retrieved and goes through to them. I propose people define an API for themselves in how to get them to do what you want them to do.  I offer a number of services, and this is the information I require.
 
 # 37. Data Flows and queries per widget
 
@@ -290,8 +290,6 @@ Generate GUI data population with a data flow description of the GUI. For exampl
 Alternatively, each click changes the query of the widgets on the screen. Clicking an email folder changes the results that are in the mail list.
 
 # 38. Built in desktop Queue
-
-
 
 # 39. Technical documentaries
 
