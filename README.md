@@ -295,7 +295,11 @@ Alternatively, each click changes the query of the widgets on the screen. Clicki
 
 We have video recording and have the documentary format. It would be nice to see some open source documentaries about open source products.
 
-# 40. 
+# 40. Text zoom
+
+A GUI of folded text like Vim where each section represents a part of a tech stack. Stack components can be zoomed in.
+
+# 41.  
 
 # Incomplete thoughts and ideas 
 Function Mesh
