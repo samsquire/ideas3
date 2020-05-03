@@ -297,9 +297,15 @@ We have video recording and have the documentary format. It would be nice to see
 
 # 40. Text zoom
 
-A GUI of folded text like Vim where each section represents a part of a tech stack. Stack components can be zoomed in.
+Text can be folded and made it so that more is available at a different zoom level.
 
-# 41.  
+```
+<document>
+<text level="1">I am visible at zoom level 1. <text level="2">I'm visible at zoom level 2</text></text>
+</document>
+```
+
+# 41.   
 
 # Incomplete thoughts and ideas 
 Function Mesh
