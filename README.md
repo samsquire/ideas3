@@ -291,9 +291,9 @@ Alternatively, each click changes the query of the widgets on the screen. Clicki
 
 # 38. Built in desktop Queue
 
-# 39. Technical documentaries
+# 39. Built to cluster with others
 
-We have video recording and have the documentary format. It would be nice to see some open source documentaries about open source products.
+Each installation of a desktop environment is a set of resources that could be shared.
 
 # 40. Text zoom
 
@@ -305,7 +305,9 @@ Text can be folded and made it so that more is available at a different zoom lev
 </document>
 ```
 
-# 41.   
+# 41. 
+
+
 
 # Incomplete thoughts and ideas 
 Function Mesh
