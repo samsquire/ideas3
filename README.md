@@ -316,6 +316,10 @@ Now imagine if sequences of OS system calls could be grouped together to indicat
 
 With library routing, we can define a pattern of an application once, and provide convenient places to place user logic.
 
+# 42. User simulation caching
+
+If we know it takes 100ms to render a page in our app, we could simulate an average journey and cache the response.
+
 # Incomplete thoughts and ideas 
 Function Mesh
 
