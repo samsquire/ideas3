@@ -307,8 +307,9 @@ Text can be folded and made it so that more is available at a different zoom lev
 
 # 41. Library Router
 
+![](john-barkiple-l090uFWoPaI-unsplash.jpg)
 
-
+Imagine a language where you specify all the API calls to the OS you want to make.
 
 # Incomplete thoughts and ideas 
 Function Mesh
