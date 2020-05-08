@@ -310,7 +310,7 @@ Text can be folded and made it so that more is available at a different zoom lev
 ![](john-barkiple-l090uFWoPaI-unsplash.jpg)
 Photo by John Barkiple on Unsplash
 
-Imagine a language where you import a list of all the actual OS system calls you want to make. But you don't necessarily wire up call sites at this time. Usually OS API calls are called with a pointer to a struct or a return value is important. Think of it as a wire that comes out of the OS and into user space. At some point, user space wants to make another OS system call, as a result of some logic, so it makes another system call. This is a wire that goes back into the OS, using some of the original system call as arguments.
+Imagine a language where you import a list of all the actual OS system calls you want to make. But you don't necessarily wire up call sites at this time. Usually OS API calls are called with a pointer to a struct and a return value is important. Think of it as a wire that comes out of the OS and into user space. At some point, user space wants to make another OS system call, as a result of some logic, so it makes another system call. This is a wire that goes back into the OS, using some of the original system call as arguments.
 
 Now imagine if sequences of OS system calls could be grouped together to indicate that the sequence of API calls will always happen together. Some of the call sites can be generated. With library routing, we can define a pattern of an application once, and provide convenient places to place user logic.
 
@@ -326,7 +326,7 @@ accept(socket);
 
 # 42. User simulation caching
 
-If we know it takes 100ms to render a page in our app, we could simulate an average journey for a user and cache the responses.
+If we know it takes 100ms to render a page in our app, we could simulate an average journey for a user and cache the responses for performance.
 
 # 43. 
 
