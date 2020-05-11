@@ -328,7 +328,14 @@ accept(socket);
 
 If we know it takes 100ms to render a page in our app, we could simulate an average journey for a user and cache the responses for performance.
 
-# 43. 
+# 43. Ghostwriter
+
+When you write client or server side code, it would be nice if the other side wrote itself automatically. This idea is for a ghostwriter to generate code for equivalent clientside.
+
+* If you wrote readInt, the client would write sendInt. If you wrote sendInt, the other side would write readInt.
+* If you write window.fetch("/data/blah") then a request handler for blah would be generated.
+
+# 44. 
 
 # Incomplete thoughts and ideas 
 Function Mesh
