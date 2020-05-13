@@ -328,17 +328,24 @@ accept(socket);
 
 If we know it takes 100ms to render a page in our app, we could simulate an average journey for a user and cache the responses for performance.
 
-# 43. Ghostwriter
+# 43. Digital Ghostwriter
 
-When you write client or server side code, it would be nice if the other side wrote itself automatically. This idea is for a ghostwriter to generate code for equivalent clientside.
+When you write client or server side code, it would be nice if the other side wrote itself automatically. This idea is for a digital ghostwriter to generate code for an equivalent clientside.
 
-* If you wrote readInt, the client would write sendInt. If you wrote sendInt, the other side would write readInt.
+* If you wrote readInt, in the  client code a sendInt would be written. If you wrote sendInt, the other side would write readInt.
 * If you write window.fetch("/data/blah") then a request handler for blah would be generated.
 
-# 44. 
+# 44. Instant signup
+
+Browsers could cache your user data according to some browser defined API, first name, last name, email address, generated password. Without prefilling a form, you could sign up and have an account immediately.
+
+# 45. 
+
 
 # Incomplete thoughts and ideas 
 Function Mesh
+
+Fluent system
 
 # Query Optimisers
 
