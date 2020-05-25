@@ -339,11 +339,15 @@ When you write client or server side code, it would be nice if the other side wr
 
 Browsers could cache your user data according to some browser defined API, first name, last name, email address, generated password. Without prefilling a form, you could sign up and have an account immediately.
 
-# 45. 
+# 45. Code Autowire
+
+Given a list of API calls, calculate the arguments that are common to them and generate code to fulfil them.
+
+# 46. 
 
 
 # Incomplete thoughts and ideas 
-Function Mesh
+Function Mesh, automesh
 
 Fluent system
 
