@@ -349,8 +349,11 @@ I propose a statement is shown and you say whether you agree or disagree with it
 
 I see a synergy with [1. Digital contracts](https://github.com/samsquire/ideas2/blob/master/README.md#1-digital-contracts), the [Person Coordination API](https://github.com/samsquire/ideas3#36-person-coordination-api) and the [World splitting app](https://github.com/samsquire/ideas2/blob/master/README.md#43-world-splitting-app) whereby people come to agreements through digital means.
 
-# 46. 
+# 46. Business Skeletons
 
+A think tank sole purpose is to churn out business plans which are a combination of job descriptions, operational manuals and business plans.
+
+# 47. 
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
