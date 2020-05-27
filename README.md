@@ -341,7 +341,11 @@ When you write client or server side code, it would be nice if the other side wr
 
 Browsers could cache your user data according to some browser defined API, first name, last name, email address, generated password. Without prefilling a form, you could sign up and have an account immediately.
 
-# 45. 
+# 45. Community Idea: Ideological match up
+
+There's somewhere someone that thinks exactly like you on a matter. Let's uses quizes and questionnaires to make them easy to find.
+
+I see a synergy with [1. Digital contracts](https://github.com/samsquire/ideas2/blob/master/README.md#1-digital-contracts) and the [Person Coordination API](https://github.com/samsquire/ideas3#36-person-coordination-api) whereby people come to agreements through digital means.
 
 # 46. 
 
