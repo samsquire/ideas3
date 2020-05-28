@@ -343,11 +343,13 @@ Browsers could cache your user data according to some browser defined API, first
 
 # 45. Community Idea: Ideological match up
 
-There's somewhere someone that thinks exactly like you on a matter. Let's uses quizes and questionnaires to make them easy to find.
+There's somewhere someone that thinks exactly like you on all matters. Let's uses quizes and questionnaires to make them easy to find.
 
 I propose a statement is shown and you say whether you agree or disagree with it. And you can specify clauses that you apply to the statement.
 
 I see a synergy with [1. Digital contracts](https://github.com/samsquire/ideas2/blob/master/README.md#1-digital-contracts), the [Person Coordination API](https://github.com/samsquire/ideas3#36-person-coordination-api) and the [World splitting app](https://github.com/samsquire/ideas2/blob/master/README.md#43-world-splitting-app) whereby people come to agreements through digital means.
+
+The website would provide a community area for users that match up.
 
 # 46. Business Skeletons
 
