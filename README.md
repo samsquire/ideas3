@@ -353,9 +353,11 @@ The website would provide a community area for users that match up.
 
 # 46. Business Skeletons
 
-A think tank sole purpose is to churn out business plans which are a combination of job descriptions, operational manuals and business plans.
+A think tank sole purpose is to churn out business strategies which are a combination of job descriptions, operational manuals and business plans.
 
 # 47. 
+
+
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
