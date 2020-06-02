@@ -351,6 +351,8 @@ I see a synergy with [1. Digital contracts](https://github.com/samsquire/ideas2/
 
 The website would provide a community area for users that match up.
 
+[Identikit](https://github.com/samsquire/identikit) is my project that attempts to represent people's stances in a compact format.
+
 # 46. Business Skeletons
 
 A think tank sole purpose is to churn out business strategies which are a combination of job descriptions, operational manuals and business plans.
