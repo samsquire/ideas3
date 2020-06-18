@@ -367,7 +367,7 @@ A company can buy one of these assets and outsource customer service or environm
 
 # 48. Crosswalk
 
-Continue processing requests before fsync is received, send an additional signal when fsync is received to confirm pending requests.
+Continue processing requests before fsync is received but create everything in a pending state. Send an additional signal when fsync is received to activate pending requests.
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
