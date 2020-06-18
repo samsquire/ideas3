@@ -365,8 +365,9 @@ I propose a financial instrument, I call a non-core business wrapped instrument 
 
 A company can buy one of these assets and outsource customer service or environmental friendliness on the market of digital labour.
 
-# 48. 
+# 48. Crosswalk
 
+Continue processing requests before fsync is received, send an additional signal when fsync is received to confirm pending requests.
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
