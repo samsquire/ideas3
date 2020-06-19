@@ -359,9 +359,11 @@ A think tank sole purpose is to churn out business strategies which are a combin
 
 # 47. Non core-business wrapped instruments
 
-Companies are legally obliged to raise profits for their shareholders. Stakeholder capitalism means companies must consider the demands of local communities, suppliers and employees. There are many demands on companies nowadays.
+Companies are obliged to raise profits for their shareholders. Stakeholder capitalism means companies must also consider the demands of local communities, suppliers and employees. There are many demands on companies nowadays.
 
-I propose a financial instrument, I call a non-core business wrapped instrument which is software and labour combined together. There's a digital marketplace that has a catalogue of products which are things like environmental friendliness or customer service.
+One cannot serve two masters: the shareholders and everybody else.
+
+I propose a financial instrument to solve the problem, I call a non-core business wrapped instrument which is software and labour combined together. There's a digital marketplace that has a catalogue of products which are things like environmental friendliness or customer service.
 
 A company can buy one of these assets and outsource customer service or environmental friendliness on the market of digital labour.
 
