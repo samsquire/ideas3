@@ -257,6 +257,8 @@ The naive way of doing some thing should be the correct way to do it. Optimisati
 
 For example, there is a natural paging size for each object in your system. For a GUI component it might be how many items can be displayed efficiently.
 
+* **JSON Paging** Imagine you have an application with buttons and the buttons load data that could possibly be millions of records, I should be able to write my code as if it is very naive and all the data fits in memory, even if it doesn't. Before the GUI code is scheduled to run, the plumbing should automatically make paged requests to the server.
+
 # 33. Person stack
 
 Distill a tech stack into those people responsible and who worked on it to buy them all beer or support them via patronage.
