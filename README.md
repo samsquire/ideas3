@@ -359,7 +359,7 @@ The website would provide a community area for users that match up.
 
 A think tank sole purpose is to churn out business strategies which are a combination of job descriptions, operational manuals and business plans.
 
-# 47. Non core-business wrapped instruments
+# 47. Non-core business wrapped instruments
 
 Companies are obliged to raise profits for their shareholders. Stakeholder capitalism means companies must also consider the demands of local communities, suppliers and employees. There are many demands on companies nowadays.
 
