@@ -31,7 +31,7 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 # 5. Forum powered desktop
 
-A [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into desktop applications that is powered by a web forum.
+A desktop distribution of Linux that has a a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a web forum. Translations and GUIs are rendered in the web forum and people vote on layouts.
 
 # 6. Bandwidth chargers
 
