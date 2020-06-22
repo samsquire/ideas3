@@ -373,7 +373,11 @@ A company can buy one of these assets and outsource customer service or environm
 
 Continue processing requests before fsync is received but create everything in a pending state. Send an additional signal when fsync is received to activate pending requests.
 
-# 49. 
+# 49. Invisible union
+
+A secret technology union for programmers and people in the computer industry. Run neural networks on salary data of members to calculate best combination to get a higher salary. Members share all communication of their employer with the union for group negotiation expertise recommendations.
+
+# 50. 
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
