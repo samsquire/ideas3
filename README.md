@@ -377,7 +377,14 @@ Continue processing requests before fsync is received but create everything in a
 
 A secret technology union for programmers and people in the computer industry. Run neural networks on salary data of members to calculate best combination to get a higher salary. Members share all communication of their employer with the union for group negotiation expertise recommendations.
 
-# 50. 
+# 50. Capacity planned language
+
+# 51. World Happiness Index
+
+A mood tracking application that is aggregated across many different dimensions: every interaction with a company or government should produce an identifier. This identifier should be used to track a reaction to the interaction in terms of happiness. Scores can be aggregated by country, by council, by shop, by county, by month, by business.
+
+
+
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
