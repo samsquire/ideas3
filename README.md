@@ -383,7 +383,9 @@ A secret technology union for programmers and people in the computer industry. R
 
 A mood tracking application that is aggregated across many different dimensions: every interaction with a company or government should produce an identifier. This identifier should be used to track a reaction to the interaction in terms of happiness. Scores can be aggregated by country, by council, by shop, by county, by month, by business.
 
+# 52. Span programming
 
+There are tools to implement distributed tracing. How about a tool that takes spans as placements and uses the span placement to schedule code in parallel and asynchonously?
 
 
 # Incomplete thoughts and ideas 
