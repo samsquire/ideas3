@@ -387,6 +387,9 @@ A mood tracking application that is aggregated across many different dimensions:
 
 There are tools to implement distributed tracing. How about a tool that takes spans as placements and uses the span placement to schedule code in parallel and asynchonously?
 
+# 53. Random Allocator
+
+Randomly allocate processes to different machines and try different combinations to see what is more efficient.
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
