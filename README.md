@@ -391,6 +391,14 @@ There are tools to implement distributed tracing. How about a tool that takes sp
 
 Break up your API call request handlers into a series of spans. Each span has an input data source and output. The DLS runs a server on every host (database, application, web) whereby any host can carry out any span. The DLS will try minimize data transfers and keep execution nearby data. So queries that deal with lots of data and reduce it to small amounts of data run on the database server and queries that return data to clients run on the application tier.
 
+# 54. Responsibility Index
+
+There's a set of people responsible for some things. Finding these people is a challenge. I propose an index of responsibilities and a tracker of who is responsible for what. This way protest can be effective by targeting the right people. Currently it goes through representatives or through protests on the street, an ineffective way of getting things changed.
+
+# 55. Problem database
+
+A database of problems.
+
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
 
