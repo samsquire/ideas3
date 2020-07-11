@@ -387,9 +387,9 @@ A mood tracking application that is aggregated across many different dimensions:
 
 There are tools to implement distributed tracing. How about a tool that takes spans as placements and uses the span placement to schedule code in parallel and asynchonously?
 
-# 53. Random Allocator
+# 53. Data Locality System
 
-Randomly allocate processes to different machines and try different combinations to see what is more efficient.
+Break up your API call request handlers into a series of spans. Each span has an input data source and output. The DLS runs a server on every host (database, application, web) whereby any host can carry out any span. The DLS will try minimize data transfers and keep execution nearby data. So queries that deal with lots of data and reduce it to small amounts of data run on the database server and queries that return data to clients run on the application tier.
 
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
