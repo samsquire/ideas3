@@ -399,6 +399,8 @@ There's a set of people responsible for some things. Finding these people is a c
 
 A database of problems.
 
+# Combined truth
+
 # Incomplete thoughts and ideas 
 Function Mesh, automesh
 
