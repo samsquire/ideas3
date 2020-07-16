@@ -389,7 +389,7 @@ There are tools to implement distributed tracing. How about a tool that takes sp
 
 # 53. Data Locality System
 
-Break up your API call request handlers into a series of spans. Each span has an input data source and output. The DLS runs a server on every host (database, application, web) whereby any host can carry out any span. The DLS will try minimize data transfers and keep execution nearby data. So queries that deal with lots of data and reduce it to small amounts of data run on the database server and queries that return data to clients run on the application tier.
+Break up your API call request handlers into a series of spans. Each span has an input data source and output. The DLS runs a server on every host (database, application, web) whereby any host can carry out any span. The DLS will try minimize data transfers and keep execution nearby data. So queries that deal with lots of data and reduce it to small amounts of data run on the database server and queries that return lots of data to clients run on the application tier.
 
 # 54. Responsibility Index
 
@@ -401,7 +401,13 @@ A database of problems.
 
 # 56. 
 
+# Generating ideas
 
+ * marketplace
+ * schedule
+ * tree
+ * additive/combined
+ * auto
 
 # Incomplete thoughts and ideas 
 
