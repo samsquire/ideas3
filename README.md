@@ -409,6 +409,16 @@ A stream based data encoding that lays out the data in the order that it appears
 
 Could create two TCP connections to the backend server. One for the current screen and one for the screens to come.
 
+# 57. Graph database visual editor
+
+Create a graph database visually.
+
+# 58. In memory data model
+
+Most application servers have the capacity to have objects that outlive requests. I propose this opportunity to load an object graph that represents application state in each application server. This model could be used for read only queries for added performance.
+
+# 59. 
+
 # Generating ideas
 
  * marketplace
