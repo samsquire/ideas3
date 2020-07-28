@@ -405,7 +405,9 @@ Existing:
 
 # 56. GUI Data Ordering
 
-A stream based data encoding that lays out the data in the order that it appears on a screen. So the first block of data is the data needed to render onto the screen immediately. After the first screenful of data, include data for the next screen, once this screen has been tapped. The data following is additional screenfuls, such as the result of scrolling to the next page. 
+A stream based data encoding that lays out the data in the order that it appears on a screen. So the first block of data is the data needed to render onto the screen immediately. After the first screenful of data, include data for the next screen, once this screen has been tapped. The data following is additional screenfuls, such as the result of scrolling to the next page.
+
+Could create two TCP connections to the backend server. One for the current screen and one for the screens to come.
 
 # Generating ideas
 
