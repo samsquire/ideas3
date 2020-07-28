@@ -411,7 +411,7 @@ Could create two TCP connections to the backend server. One for the current scre
 
 # 57. Graph database visual editor
 
-Create a graph database visually.
+An office suite program for editing graphs visually but are backed by a graph database.
 
 # 58. In memory data model
 
