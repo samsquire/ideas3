@@ -421,6 +421,18 @@ Most application servers have the capacity to have objects that outlive requests
 
 My phone should know where I'm going to be sleeping and where I'm going to be eating in advance. I liken it to another status indicator along the notification area of the phone. I should be able to swipe down the notification area and click food and click what I want to eat and have it automatically sourced.
 
+# 60. Combined truth
+
+Don't repeat yourself often means a single point of truth exists. I'm going to come out and say a single point of truth is not always a good thing, because it's limited in scope. I want there to be multiple points of truth about a thing. But for them to be combined. You can say things about the same thing but from different perspectives and they might not always live in the same place.
+
+Security is a good example. I want to define security rules in one place, away from everything else because it's a separate concern.
+
+# 61. Simple kubernetes command line application
+
+A command line application that feels like Docker but actually generates Kubernetes manifests.
+
+# 62. 
+
 # Generating ideas
 
  * marketplace
