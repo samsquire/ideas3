@@ -431,7 +431,7 @@ Don't repeat yourself often means a single point of truth exists. I'm going to c
 
 A command line application that feels like Docker but actually generates Kubernetes manifests.
 
-# 62.  
+# 62.   
 
 # Generating ideas
 
