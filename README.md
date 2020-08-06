@@ -423,15 +423,22 @@ My phone should know where I'm going to be sleeping and where I'm going to be ea
 
 # 60. Combined truth
 
-Don't repeat yourself often means a single point of truth exists. I'm going to come out and say a single point of truth is not always a good thing, because it's limited in scope. I want there to be multiple points of truth about a thing. But for them to be combined. You can say things about the same thing but from different perspectives and they might not always live in the same place.
+Don't repeat yourself often means a single point of truth exists. But it's poorly implemented in practice. I'm going to come out and say a single point of truth is not always accomplished. I want there to be multiple points of truth about a thing. But for them to be combined. You can say things about the same thing but from different perspectives and they might not always live in the same place.
 
- * Security is a good example. I want to define security rules in one place, away from everything else because it's a separate concern.
+ * Security is a good example.
+ 
+Truth should be defined closest to where the responsibility lies, so it could be defined in any of the following:
+
+ * BDD syntax
+ * Issue tracker
+ * In sourcecode
+ * In a JSON file on a server
 
 # 61. Simple kubernetes command line application
 
 A command line application that feels like Docker but actually generates Kubernetes manifests.
 
-# 62.   
+# 62. 
 
 # Generating ideas
 
