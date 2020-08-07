@@ -438,7 +438,9 @@ Truth should be defined closest to where the responsibility lies, so it could be
 
 A command line application that feels like Docker but actually generates Kubernetes manifests.
 
-# 62. 
+# 62. Centralised dependency management
+
+To get started in a job, you often need access to lots of separate systems. It would be nice if even the tracking of what dependencies you require were centrally tracked. You could even automate the provision of access.
 
 # Generating ideas
 
