@@ -442,6 +442,10 @@ A command line application that feels like Docker but actually generates Kuberne
 
 To get started in a job, you often need access to lots of separate systems. It would be nice if even the tracking of what dependencies you require were centrally tracked. You could even automate the provision of access.
 
+# 63. Backup Hooks
+
+
+
 # Generating ideas
 
  * marketplace
@@ -449,6 +453,8 @@ To get started in a job, you often need access to lots of separate systems. It w
  * tree
  * additive/combined
  * auto
+ * mesh
+ * hooks
 
 # Incomplete thoughts and ideas 
 
