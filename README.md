@@ -417,7 +417,7 @@ An office suite program for editing graphs visually but are backed by a graph da
 
 Most application servers have the capacity to have objects that outlive requests. I propose this opportunity to load an object graph that represents application state in each application server. This model could be used for read only queries for added performance.
 
-# 59. Situational awareness app
+# 59. Life indicators - Situational awareness apps
 
 My phone should know where I'm going to be sleeping and where I'm going to be eating in advance. I liken it to another status indicator along the notification area of the phone. I should be able to swipe down the notification area and click food and click what I want to eat and have it automatically sourced.
 
@@ -448,7 +448,15 @@ To get started in a job, you often need access to lots of separate systems. It w
 
 # 65. Ending not found errors
 
+# 66. Searchable data structures
 
+Imagine a JSON file that you could refer to a field at any level and have meaningful data returned.
+
+# 67. Earncode
+
+Earn money solving implementing unit tests.
+
+# 68. 
 
 # Generating ideas
 
