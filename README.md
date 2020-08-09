@@ -456,9 +456,9 @@ Imagine a JSON file that you could refer to a field at any level and have meanin
 
 Earn money solving implementing unit tests.
 
-# 68. Web What I Mean
+# 68. Guided browsing - Web What I Mean
 
-
+We're often browsing to solve a problem. I want to browse with a context in mind. Perhaps I'm looking for API examples on how to call an API and want to "pick" a solution online. Or I'm browsing to follow a tutorial.
 
 # 69. 
 
