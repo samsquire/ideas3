@@ -462,7 +462,11 @@ We're often browsing to solve a problem. I want to browse with a context in mind
 
 Picking the final page of the browsing session should import whatever machine readable context into the application that initiated the browsing session, such as an IDE call site search or a tutorial application.
 
-# 69. 
+# 69. Cloud model
+
+A single page application for defining cloud resources in YAML.
+
+# 70. 
 
 # Generating ideas
 
