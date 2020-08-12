@@ -444,6 +444,8 @@ To get started in a job, you often need access to lots of separate systems. It w
 
 # 63. Backup Hooks
 
+We shouldn't have to write backup code manually each time anew for each system if the components in the system are the same at each company. I propose a backup server which speaks a protocol that other systems can implement for timely backups.
+
 # 64. Offline Websites
 
 # 65. Ending not found errors
