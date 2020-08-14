@@ -468,7 +468,90 @@ Picking the final page of the browsing session should import whatever machine re
 
 A single page application for defining cloud resources in YAML.
 
-# 70. 
+# 70. Loop merging
+
+Sometimes I write naive code first, a simple for loop and a search. I think it should be possible to automatically detect naively written searches and generate more efficient joins such as hash joins or hash table lookups.
+
+This code calculates build success in a hierarchy that is three levels deep: an environment contains components and components contain commands. Failures ripple out from commands; a component with a failing command is failed and an environment with a failing component (or command) is failed.
+
+```
+  for environment in state["environments"]:
+      environment["status"] = "ready"
+
+  for component in state["components"]:
+      component["status"] = "ready"
+      component["progress"] = 100
+      component["build_success"] = "success"
+
+  for item in state["running"]:
+      provider, running_component, command, manual, local = parse_reference(item["reference"])
+
+
+      if "log_file" in item:
+          item["current_size"] = os.stat(item["log_file"]).st_size
+          if item["last_size"] != 0:
+              item["progress"] = (item["current_size"] / item["last_size"]) * 100
+
+              for environment in state["environments"]:
+                  if item["environment"] == environment["name"]:
+                      environment["status"] = "running"
+
+              for component in state["components"]:
+
+                  component_provider, component_name = component["name"].split("/")
+                  if item["environment"] == component["environment"] and component_provider == provider and running_component == component_name:
+                      component["status"] = "running"
+                      component["progress"] = item["progress"]
+
+              for latest in state["latest"]:
+                  if latest["environment"] == item["environment"] and latest["name"] == "{}/{}".format(provider, running_component):
+                      for current_command in latest["commands"]:
+                          if current_command["name"] == command:
+                              current_command["progress"] = item["progress"]
+
+
+  state["running"] = sorted(state["running"], key=lambda item: item["reference"])
+
+  for component_data in state["latest"]:
+      provider, component = component_data["name"].split("/")
+      component_data["build_success"] = "success"
+      for command_data in component_data["commands"]:
+          command = command_data["name"]
+          builds, last_build_status, next_build = get_builds(component_data["environment"], provider, component, command)
+
+          if builds:
+              current_build = builds[-1]
+              command_data["build_number"] = current_build["build_number"]
+              command_data["build_success"] = "success" if last_build_status else "failure"
+
+              if not last_build_status:
+                  component_data["build_success"] = "failure"
+
+
+              if not command_data.get("progress"):
+                  command_data["progress"] = 100
+
+  for component in state["components"]:
+      for component_data in state["latest"]:
+          if component_data["environment"] == component["environment"] and component_data["name"] == component["name"] and component_data["build_success"] == "failure":
+              component["build_success"] = "failure"
+
+  for environment in state["environments"]:
+      environment["build_success"] = "success"
+      for latest in state["latest"]:
+          if latest["environment"] == environment["name"] and latest["build_success"] == "failure":
+              environment["build_success"] = "failure"
+```
+
+I'm effectively doing a manual join on a number of records in memory and I'm doing it more than once (5 times).
+
+# 71. Query like primitives for application code
+
+# 72. Community Idea: I would pay £10
+
+I would pay is a community where people say how much they'd pay for certain things.
+
+Scope magic
 
 # Generating ideas
 
@@ -484,7 +567,7 @@ A single page application for defining cloud resources in YAML.
 
 # Combined truth
 
-
+Tree programming
 
 Function Mesh, automesh
 
