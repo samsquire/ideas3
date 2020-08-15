@@ -555,6 +555,10 @@ I would pay is a community where people say how much they'd pay for certain thin
 
 I have a file on my host machine that I want in my guest machine, usually in locked down environments I base64 encode the file and paste it into the guest VM and decode it. But what I want some thing more robust. A special string that encodes all the information needed to get to the file. When pasted, it contains the information needed to transfer the file from one environment to another.
 
+# 74. Life strategy
+
+A community of people that update their life strategy for different topics.
+
 Scope magic
 
 # Generating ideas
