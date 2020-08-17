@@ -448,6 +448,8 @@ We shouldn't have to write backup code manually each time anew for each system i
 
 # 64. Offline Websites
 
+Companies could generate websites in advance as static websites that are downloadable as a single file.
+
 # 65. Ending not found errors
 
 # 66. Searchable data structures
@@ -473,6 +475,8 @@ A single page application for defining cloud resources in YAML.
 Sometimes I write naive code first, a simple for loop and a search. I think it should be possible to automatically detect naively written searches and generate more efficient joins such as hash joins or hash table lookups.
 
 This code calculates build success in a hierarchy that is three levels deep: an environment contains components and components contain commands. Failures ripple out from commands; a component with a failing command is failed and an environment with a failing component (or command) is failed.
+
+I'm effectively doing a manual join on a number of records in memory and I'm doing it more than once (5 times).
 
 ```
   for environment in state["environments"]:
@@ -543,23 +547,29 @@ This code calculates build success in a hierarchy that is three levels deep: an 
               environment["build_success"] = "failure"
 ```
 
-I'm effectively doing a manual join on a number of records in memory and I'm doing it more than once (5 times).
+
 
 # 71. Query like primitives for application code
 
 # 72. Community Idea: I would pay £10
 
-I would pay is a community where people say how much they'd pay for certain things.
+"I would pay" is a community where people say how much they'd pay for certain things.
 
 # 73. Magic links
 
 I have a file on my host machine that I want in my guest machine, usually in locked down environments I base64 encode the file and paste it into the guest VM and decode it. But what I want some thing more robust. A special string that encodes all the information needed to get to the file. When pasted, it contains the information needed to transfer the file from one environment to another.
 
-# 74. Life strategy
+# 74. Community Idea: Life strategy
 
-A community of people that update their life strategy for different topics.
+A community of people that share their life strategy for different topics.
 
-Scope magic
+# 75. Query relationships and widget mappings
+
+* Define an SQL query
+* Define the query's React renderer function for that widget.
+* Define the relationships between the queries on the screen
+
+# 76. 
 
 # Generating ideas
 
@@ -572,6 +582,8 @@ Scope magic
  * hooks
 
 # Incomplete thoughts and ideas 
+
+Scope magic
 
 # Combined truth
 
