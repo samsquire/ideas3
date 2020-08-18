@@ -571,7 +571,7 @@ A community of people that share their life strategy for different topics.
 
 ```
 widget title
-return <h1></h1>
+return <h1>Welcome</h1>
 ---
 comment
 Query -> Widget Mapping -> Predicates
@@ -581,9 +581,10 @@ query
 select id, strategy_name from strategies
 ---
 widget strategy_list
+var items = items.map(item => {
+	return <li><input type="text" name="strategy[{item.id}]" value="{item.strategy_name}"></li>
 return <div><ul>
-items.map(item => {
-	return <li><input type="text" value="{item.strategy_name}"></li>
+{items}
 })
 </ul></div>
 ---
@@ -599,7 +600,14 @@ predicates
 submit below strategy_list
 ---
 POST /strategies
-update strategies set strategy_name = %form.strategy_name%
+sql
+update strategies set
+    strategy_name = c.new_strategy_name
+from (values
+	(%gen_form_values_array("strategy")%)
+) as c(column_id, new_strategy_name) 
+where c.column_id = strategies.id;
+
 ```
 
 # 76. 
