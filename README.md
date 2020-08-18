@@ -610,7 +610,9 @@ where c.column_id = strategies.id;
 
 ```
 
-# 76. 
+# 76. Community Idea: Imaginary formats
+
+A community of people that define imaginary formats that they wish existed.
 
 # Generating ideas
 
