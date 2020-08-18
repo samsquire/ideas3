@@ -563,11 +563,44 @@ I have a file on my host machine that I want in my guest machine, usually in loc
 
 A community of people that share their life strategy for different topics.
 
-# 75. Query relationships and widget mappings
+# 75. Web application format
 
 * Define an SQL query
 * Define the query's React renderer function for that widget.
 * Define the relationships between the queries on the screen
+
+```
+widget title
+return <h1></h1>
+---
+comment
+Query -> Widget Mapping -> Predicates
+POST handler
+---
+query
+select id, strategy_name from strategies
+---
+widget strategy_list
+return <div><ul>
+items.map(item => {
+	return <li><input type="text" value="{item.strategy_name}"></li>
+})
+</ul></div>
+---
+predicates
+this atURL /strategies
+this below title
+this inForm action=/strategies method=post
+---
+widget submit
+<button type="submit">Submit</button>
+---
+predicates
+submit below strategy_list
+---
+POST /strategies
+update strategies set strategy_name = %form.strategy_name%
+```
 
 # 76. 
 
