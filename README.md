@@ -614,6 +614,10 @@ where c.column_id = strategies.id;
 
 A community of people that define imaginary formats that they wish existed.
 
+# 77. Where can I get to within 20 minutes
+
+Use public transport and maps to work out where I can realistically go to within 20 minutes. The maps might be surprising.
+
 # Generating ideas
 
  * marketplace
