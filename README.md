@@ -614,9 +614,9 @@ where c.column_id = strategies.id;
 
 A community of people that define imaginary formats that they wish existed.
 
-# 77. Where can I get to within 20 minutes
+# 77. Where can I get to within 20 minutes, Where can I get a job within 15 minutes
 
-Use public transport and maps to work out where I can realistically go to within 20 minutes. The maps might be surprising.
+Use public transport and maps to work out where I can realistically go to within 20 minutes. I'd like to apply to jobs by physical area too.
 
 # Generating ideas
 
