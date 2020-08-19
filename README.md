@@ -618,6 +618,10 @@ A community of people that define imaginary formats that they wish existed.
 
 Use public transport and maps to work out where I can realistically go to within 20 minutes. I'd like to apply to jobs by physical area too.
 
+Existing
+
+ * [Walkscore (kind of buggy though)](https://walkscore.com)
+
 # Generating ideas
 
  * marketplace
