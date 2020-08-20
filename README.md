@@ -622,7 +622,9 @@ Existing
 
  * [Walkscore (kind of buggy though)](https://walkscore.com)
 
-# 78. 
+# 78. Export database to DynamoDB
+
+There must be a way of synchronizing a database with DynamoDB.
 
 # Generating ideas
 
