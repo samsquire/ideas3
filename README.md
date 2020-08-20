@@ -622,9 +622,9 @@ Existing
 
  * [Walkscore (kind of buggy though)](https://walkscore.com)
 
-# 78. Export database to DynamoDB
+# 78. Put a trie in front of a hashmap
 
-There must be a way of synchronizing a database with DynamoDB.
+We end up with a simple database when we put a trie in front of a hashmap. [See this repository](https://github.com/samsquire/hash-db). There must be a way of synchronizing a database with DynamoDB.
 
 # Generating ideas
 
