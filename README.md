@@ -624,7 +624,9 @@ Existing
 
 # 78. Put a trie in front of a hashmap
 
-We end up with a simple database when we put a trie in front of a hashmap. [See this repository](https://github.com/samsquire/hash-db). There must be a way of synchronizing a database with DynamoDB.
+We end up with a simple database when we put a trie in front of a hashmap. This allows for almost constant access times. [See this repository](https://github.com/samsquire/hash-db).
+
+There must be a way of getting the best of both worlds: an SQL database with the performance of a NoSQL database. I'd like to synchronize an SQL database with DynamoDB.
 
 # Generating ideas
 
