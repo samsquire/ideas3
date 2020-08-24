@@ -628,6 +628,10 @@ We end up with a simple database when we put a trie in front of a hashmap. This 
 
 There must be a way of getting the best of both worlds: an SQL database with the performance of a NoSQL database. I'd like to synchronize an SQL database with DynamoDB.
 
+# 79. Scaling Plan
+
+An PaaS that begins while the application is hosted on a single box and then scales out to load balancer boxes, database boxes -- all while being on the same platform. Can automatically determine when to scale based on rules.
+
 # Generating ideas
 
  * marketplace
