@@ -632,6 +632,17 @@ There must be a way of getting the best of both worlds: an SQL database with the
 
 An PaaS that begins while the application is hosted on a single box and then scales out to load balancer boxes, database boxes -- all while being on the same platform. Can automatically determine when to scale based on rules.
 
+# 80. Wantsfiles
+
+Every domain should have a `wants.csv` at the root of the domain which states what that person or organisation wants. Sellers can provide a `gives.csv` file.
+
+Matching between wants.csv and gives.csv is automatic, even up to purchase and exchange.
+
+* I can request coffee at £2.65 for 500g, milk for £1.50 for 4 pints and so on and have them automatically delivered to me.
+* I can set a price for hosting some files and an archive and have someone automatically host them for me.
+* I can request a Postgres database and its backups every day and have someone provide that interface for me.
+
+
 # Generating ideas
 
  * marketplace
