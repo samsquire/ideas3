@@ -634,14 +634,15 @@ An PaaS that begins while the application is hosted on a single box and then sca
 
 # 80. Wantsfiles
 
-Every domain should have a `wants.csv` at the root of the domain which states what that person or organisation wants. Sellers can provide a `gives.csv` file.
+Every domain should have a `wantsfile` at the root of the domain which states what that person or organisation wants. Sellers can provide a `sellfile` at the root of their domain.
 
-Matching between wants.csv and gives.csv is automatic, even up to purchase and exchange.
+Matching between `Wantsfile` and `Sellfile` is automatic with an order matching engine so that purchases are automatic, even handling the exchange of money.
 
 * I can request coffee at £2.65 for 500g, milk for £1.50 for 4 pints and so on and have them automatically delivered to me.
 * I can set a price for hosting some files and an archive and have someone automatically host them for me.
 * I can request a Postgres database and its backups every day and have someone provide that interface for me.
 
+# 81. 
 
 # Generating ideas
 
