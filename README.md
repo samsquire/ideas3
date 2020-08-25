@@ -642,7 +642,11 @@ Matching between `Wantsfile` and `Sellfile` is automatic with an order matching 
 * I can set a price for hosting some files and an archive and have someone automatically host them for me.
 * I can request a Postgres database and its backups every day and have someone provide that interface for me.
 
-# 81. 
+# 81. Person heads up display
+
+When I'm with someone in person, my phone should show a screen with that person's profile on it and should show me all the things I can do with that person digitally.
+
+# 82.
 
 # Generating ideas
 
