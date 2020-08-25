@@ -566,7 +566,7 @@ A community of people that share their life strategy for different topics.
 # 75. Web application format
 
 * Define an SQL query
-* Define the query's React renderer function for that widget.
+* Define the query's React renderer function for that query.
 * Define the relationships between the queries on the screen
 
 ```
