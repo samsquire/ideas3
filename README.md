@@ -634,7 +634,7 @@ An PaaS that begins while the application is hosted on a single box and then sca
 
 # 80. Wantsfiles
 
-Every domain should have a `wantsfile` at the root of the domain which states what that person or organisation wants. Sellers can provide a `sellfile` at the root of their domain.
+Every domain should have a `Wantsfile` at the root of the domain which states what that person or organisation wants. Sellers can provide a `Sellfile` at the root of their domain.
 
 Matching between `Wantsfile` and `Sellfile` is automatic with an order matching engine so that purchases are automatic, even handling the exchange of money.
 
@@ -646,7 +646,9 @@ Matching between `Wantsfile` and `Sellfile` is automatic with an order matching 
 
 When I'm with someone in person, my phone should show a screen with that person's profile on it and should show me all the things I can do with that person digitally.
 
-# 82.
+# 82. Entity management software
+
+Track all the entities you know, whether or not you trust them.
 
 # Generating ideas
 
