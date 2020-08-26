@@ -659,7 +659,7 @@ monetization.txt is a file you keep at the root of your web domain where you sho
 If you store data in a hashmap and use a trie in front of it, you can fetch all the data to render a webpage with a partition key and sort key and this can map to a hash map access for each object fetched. Much faster than an SQL query.
 
 * /products/ can do a partition key search of PK=products SK="begins_with(products)"
-* /products/product-100 can do a partition key search of PK=products-100 SK=""
+* /products/product-100 can do a partition key search of PK=products SK="product-100"
 
 
 # Generating ideas
