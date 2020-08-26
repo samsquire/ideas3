@@ -654,6 +654,14 @@ Track all the entities you know, whether or not you trust them.
 
 monetization.txt is a file you keep at the root of your web domain where you show people how to support you financially.
 
+# 84. Do a range query on page load
+
+If you store data in a hashmap and use a trie in front of it, you can fetch all the data to render a webpage with a partition key and sort key and this can map to a hash map access for each object fetched. Much faster than an SQL query.
+
+/products/ can do a partition key search of PK=begins_with(products) SK=""
+/products/product-100 can do a partition key search of PK=products-100 SK=""
+
+
 # Generating ideas
 
  * marketplace
