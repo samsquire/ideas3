@@ -650,6 +650,10 @@ When I'm with someone in person, my phone should show a screen with that person'
 
 Track all the entities you know, whether or not you trust them.
 
+# 83. Monetization.txt
+
+monetization.txt is a file you keep at the root of your web domain where you show people how to support you financially.
+
 # Generating ideas
 
  * marketplace
