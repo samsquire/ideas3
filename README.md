@@ -661,6 +661,13 @@ If you store data in a hashmap and use a trie in front of it, you can fetch all 
 * /products/ can do a partition key search of PK=products SK="begins_with(products)"
 * /products/product-100 can do a partition key search of PK=products SK="product-100"
 
+# 85. Layers lang
+
+Some algorithms are easier to explain when they are transferred to paper and moved around on a table with bits of string connecting them. I propose a layer language for building algorithms this way.
+
+Creating a movement of a layer, prompts the user for a machine readable reason for moving and what to move.
+
+# 86. 
 
 # Generating ideas
 
