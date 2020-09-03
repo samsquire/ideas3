@@ -667,7 +667,9 @@ Some algorithms are easier to explain when they are transferred to paper and mov
 
 Creating a movement of a layer, prompts the user for a machine readable reason for moving and what to move.
 
-# 86. 
+# 86. Build server configured by YAML in Markdown
+
+# 87. 
 
 # Generating ideas
 
