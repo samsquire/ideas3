@@ -671,7 +671,9 @@ Creating a movement of a layer, prompts the user for a machine readable reason f
 
 # 87. Embedded resources marked for caching
 
-Why not embed CSS and Javascript in HTML and have an attribute to mark the resource as cacheable. Then on other pages, we can include an empty CSS and Javascript block with an attribute to say use the cache. There would be some way to communicate the fact that the resource is cached to the server. Perhaps a header.
+Why not embed CSS and Javascript in HTML and have an attribute to mark the resource as cacheable. There would be some way to communicate the fact that the resource is cached to the server. Perhaps a header. Then on other pages, we can include an empty CSS and Javascript block with an attribute to say use the cache.
+
+# 88. 
 
 # Generating ideas
 
