@@ -663,9 +663,9 @@ If you store data in a hashmap and use a trie in front of it, you can fetch all 
 
 # 85. Layers lang
 
-Some algorithms are easier to explain when they are transferred to paper and moved around on a table with bits of string connecting them. I propose a layer language for building algorithms this way.
+Some algorithms are easier to explain when they are transferred to paper and moved around on a table with bits of virtual string connecting them. I propose a layer language for building algorithms this way.
 
-Creating a movement of a layer, prompts the user for a machine readable reason for moving and what to move.
+Creating a movement of a layer, prompts the user for a machine readable reason for moving and what to move. I envision a btree being easy to create with layer language.
 
 # 86. Build server configured by YAML in Markdown
 
