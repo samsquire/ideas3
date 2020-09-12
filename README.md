@@ -671,9 +671,12 @@ Creating a movement of a layer, prompts the user for a machine readable reason f
 
 # 87. Embedded resources marked for caching
 
-Why not embed CSS and Javascript in HTML and have an attribute to mark the resource as cacheable. There would be some way to communicate the fact that the resource is cached to the server. Perhaps a header. Then on other pages, we can include an empty CSS and Javascript block with an attribute to say use the cache.
+Why not embed CSS and Javascript in HTML and have an attribute to mark the resource as cacheable. There would be some way to communicate the fact that the resource is cached to the server. Perhaps a header. Can use serialized bloom filters to indicate what resources are cached. Then on other pages, we can include an empty CSS and Javascript block with an attribute to say use the cache.
 
-# 88. 
+# 88. Scalescript & method scale ups
+
+Write the workflow of your distributed system as a simple program that can run on a single computer. Then scale it up. Replace method calls with queues or distributed logs.
+A language for distributed systems. 
 
 # 89. 
 
