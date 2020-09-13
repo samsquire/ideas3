@@ -678,7 +678,20 @@ Why not embed CSS and Javascript in HTML and have an attribute to mark the resou
 Write the workflow of your distributed system as a simple program that can run on a single computer. Then scale it up. Replace method calls with queues or distributed logs.
 A language for distributed systems. 
 
-# 89. 
+# 89. Join service
+
+If you write a microservice architecture and have every database separated from every other and you have a good service oriented system.
+
+I propose a join service that allows joins between different microservices, for the join query:
+
+```
+select * from user_orders inner join users.id = user_orders.user_id where users.id = 20
+```
+
+* Bulk extracts `select * from user_orders where user_orders.user_id = 20` from user_orders service and `select * from users where users.id = 20` from users.
+* Transfers them to the join service database. Bulk imports.
+* Run the join query.
+
 
 # Generating ideas
 
