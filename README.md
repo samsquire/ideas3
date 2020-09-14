@@ -692,6 +692,11 @@ select * from user_orders inner join users.id = user_orders.user_id where users.
 * Transfers them to the join service database. Bulk imports.
 * Run the join query.
 
+# 90. Mouse button prediction
+
+https://jsfiddle.net/nvcw89qm/
+
+# 91. 
 
 # Generating ideas
 
