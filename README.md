@@ -675,8 +675,11 @@ Why not embed CSS and Javascript in HTML and have an attribute to mark the resou
 
 # 88. Scalescript & method scale ups
 
-Write the workflow of your distributed system as a simple program that can run on a single computer. Then scale it up. Replace method calls with queues or distributed logs.
-A language for distributed systems. 
+Write the workflow of your distributed system as a simple program that can run on a single computer. Then scale it up:
+
+ * Replace method calls with queries, queues or distributed logs.
+ * Introduce loops that stream data rather than wait for it all to be in memory.
+A DSL for distributed systems. 
 
 # 89. Join service
 
