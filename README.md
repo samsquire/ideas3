@@ -699,7 +699,20 @@ select * from user_orders inner join users.id = user_orders.user_id where users.
 
 https://jsfiddle.net/nvcw89qm/1/
 
-# 91. 
+# 91. Entity management
+
+A GUI for maintaining a view of entities and their relationships in a system:
+
+ * kafka topics
+ * s3 buckets
+ * s3 objects
+ * producers
+ * consumers
+ * kubernetes objects
+ * ec2 instances
+ * request ids
+
+
 
 # Generating ideas
 
