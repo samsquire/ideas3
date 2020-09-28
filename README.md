@@ -712,6 +712,9 @@ A GUI for maintaining a view of entities and their relationships in a system:
  * ec2 instances
  * request ids
 
+Write ingesters for each system tool or API and have it warehoused in one place for introspection.
+
+# 92. 
 
 
 # Generating ideas
