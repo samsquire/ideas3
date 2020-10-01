@@ -699,10 +699,11 @@ select * from user_orders inner join users.id = user_orders.user_id where users.
 
 https://jsfiddle.net/nvcw89qm/1/
 
-# 91. Noun management software
+# 91. Noun management software aka Autodebugging
 
-A GUI for maintaining a view of entities and their relationships in a system:
+A GUI for maintaining a view of entities and their relationships in a system. Enter a Kafka topic name, get a list of consumers. Enter an s3 bucket, get a list of iam roles.
 
+ * iam roles
  * kafka topics
  * s3 buckets
  * s3 objects
