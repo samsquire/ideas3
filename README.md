@@ -699,7 +699,7 @@ select * from user_orders inner join users.id = user_orders.user_id where users.
 
 https://jsfiddle.net/nvcw89qm/1/
 
-# 91. Entity management
+# 91. Noun management software
 
 A GUI for maintaining a view of entities and their relationships in a system:
 
