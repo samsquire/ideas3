@@ -703,11 +703,7 @@ https://jsfiddle.net/nvcw89qm/1/
 
 # 91. Noun management software aka Autodebugging
 
-A GUI for maintaining a view of entities and their relationships in a system.
-
- * Enter a Kafka topic name, get a list of consumers. (Derived from your configuration files pointing to Kafka)
- * Enter an s3 bucket name, amongst objects, get a list of iam roles that can write to the bucket (Derived from the AWS API and based off of assume role policies)
- * 
+A GUI for tracking nouns and their relationships in a system. For example, a list of nouns that should be supported:
 
  * iam roles
  * kafka topics
@@ -718,6 +714,12 @@ A GUI for maintaining a view of entities and their relationships in a system.
  * kubernetes objects
  * ec2 instances
  * request ids
+
+Autodebugging is to take an entered identifier and turn it into useful information. For example:
+
+ * Enter a Kafka topic name, get a list of consumers. (Derived from your configuration files pointing to Kafka)
+ * Enter an s3 bucket name, amongst objects, get a list of iam roles that can write to the bucket (Derived from the AWS API and based off of assume role policies)
+ 
 
 Write ingesters for each system tool or API and have it warehoused in one place for introspection.
 
