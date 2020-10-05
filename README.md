@@ -462,9 +462,11 @@ Earn money solving implementing unit tests.
 
 # 68. Guided browsing - Web What I Mean
 
+Imagine documentation that retained your goal that you're trying to solve. So every thing stems from a search parameter, you vote yes when the guided browsing took you to where you wanted to be.
+
 We're often browsing to solve a problem. I want to browse with a context in mind. Perhaps I'm looking for API examples on how to call an API and want to "pick" a solution online. Or I'm browsing to follow a tutorial. I want some finality in the browsing concept, by picking or selecting the page with the answer I want to use on.
 
-Picking the final page of the browsing session should import whatever machine readable context into the application that initiated the browsing session, such as an IDE call site search or a tutorial application.
+Picking the final page of the browsing session should import whatever machine readable context into the application that initiated the browsing session, such as an IDE call site search or a text editor.
 
 # 69. Cloud model
 
