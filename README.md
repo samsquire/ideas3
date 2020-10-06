@@ -702,7 +702,7 @@ select * from user_orders inner join users.id = user_orders.user_id where users.
 
 https://jsfiddle.net/nvcw89qm/1/
 
-# 91. Noun management software aka Autodebugging
+# 91. Noun management software and Autodebugging
 
 A GUI for tracking nouns and their relationships in a system. For example, a list of nouns that should be supported:
 
@@ -716,7 +716,7 @@ A GUI for tracking nouns and their relationships in a system. For example, a lis
  * ec2 instances
  * request ids
 
-Autodebugging is to take an entered identifier and turn it into useful information. For example:
+Autodebugging is to take an entered identifier and turn it into useful information about whether or not some thing works. For example:
 
  * Enter a Kafka topic name, get a list of consumers and producers. (Derived from your configuration files pointing to Kafka)
  * Enter an s3 bucket name, amongst objects, get a list of iam roles that can write to the bucket (Derived from the AWS API and based off of assume role policies)
