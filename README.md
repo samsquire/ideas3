@@ -377,7 +377,9 @@ Continue processing requests before fsync is received but create everything in a
 
 A secret technology union for programmers and people in the computer industry. Run neural networks on salary data of members to calculate best combination to get a higher salary. Members share all communication of their employer with the union for group negotiation expertise recommendations.
 
-# 50. Capacity planned language
+# 50. Capacity planning tool
+
+An interactive tool that renders time charts of how long some thing takes. Imagine 60 frames a second visual output being a goal, you can drag pieces of work onto the chart to schedule it to run.
 
 # 51. World Happiness Index
 
