@@ -585,9 +585,10 @@ select id, strategy_name from strategies
 widget strategy_list
 var items = items.map(item => {
 	return <li><input type="text" name="strategy[{item.id}]" value="{item.strategy_name}"></li>
+	})
 return <div><ul>
 {items}
-})
+
 </ul></div>
 ---
 predicates
