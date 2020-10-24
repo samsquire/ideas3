@@ -657,7 +657,10 @@ Some algorithms are easier to explain when they are transferred to paper and mov
 
 Creating a movement of a layer, prompts the user for a machine readable reason for moving and what to move. I envision a btree being easy to create with layer language.
 
-# 86. Build server configured by YAML in Markdown
+# 86. Build server improvements
+
+* **Build server configured by YAML in Markdown**
+* **Build server installer API** Build server commands map to an installer API so that installers are easily created.
 
 # 87. Embedded resources marked for caching
 
