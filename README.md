@@ -713,7 +713,18 @@ Autodebugging is to take an entered identifier and turn it into useful informati
 
 Write ingesters for each system tool or API and have it warehoused in one place for introspection.
 
-# 92. 
+# 92. Import physical products with import statements
+
+Define a computer configuration with code.
+
+```
+Import Gigabyte X399 AORUS PRO
+Import AMD Ryzen Threadripper 2990WX 32-Core Processor, 3000 Mhz, 32 Core(s), 64 Logical Processor(s)
+Construct
+```
+
+# 93. 
+
 
 
 # Generating ideas
