@@ -713,7 +713,9 @@ Autodebugging is to take an entered identifier and turn it into useful informati
 
 Write ingesters for each system tool or API and have it warehoused in one place for introspection.
 
-# 92. Import physical products with import statements
+# 92. Acquire physical objects with computer
+
+Borrow physical objects with your computer.
 
 Define a computer configuration with code.
 
@@ -723,9 +725,13 @@ Import AMD Ryzen Threadripper 2990WX 32-Core Processor, 3000 Mhz, 32 Core(s), 64
 Construct
 ```
 
-# 93. 
+# 93. Buy/Sell interface and payment integrated into the desktop environment
 
+Buying things and selling things are basic actions in the world that deserve decentralized infrastructure to action in the real world.
 
+ * Pay for bespoke software through the desktop with the option of making the resulting product open source.
+
+# 94. 
 
 # Generating ideas
 
