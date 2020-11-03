@@ -729,6 +729,7 @@ Construct
 
 Buying things and selling things are basic actions in the world that deserve decentralized infrastructure to action in the real world.
 
+ * Start a shop with just your desktop environment. Accept payments.
  * Pay for bespoke software through the desktop with the option of making the resulting product open source.
 
 # 94. 
