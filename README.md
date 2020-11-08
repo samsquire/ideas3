@@ -744,26 +744,35 @@ The desktop environment would have a common powerful shopping interface that sea
 
 # 94. Person dependencies
 
-A decentralized work community whereby you can depend on the work of others to benefit you personally. There are millions of people working around the clock on different things. Owning index funds allow those working at large companies to benefit me financially directly by increasing the value of large company shares and increasing dividends. There must be a way to make what other people do daily benefit me directly too. Person dependencies allows me to depend on the output of a particular individual.
+A decentralized work community whereby you can depend on the work of others to benefit you personally. There are millions of people working around the clock on different things. Owning index funds allow those working at companies to benefit you financially directly by increasing the value of your shares and increasing dividends. There must be a way to make what other people do daily benefit you directly too. Person dependencies allows me to depend on the output of a particular individual. I depend on the creators and maintainers of Python3 who increase its performance, remove bugs and fix security vulnerabilities. I want to make this dependency on people explicit.
 
-* **Digital Work abstraction**. Pattern match on what a person is doing at a  high level on a computer system and see if this pattern can be applied in other areas by other people with the same patterns. If someone is iterating through a spreadsheet, this loop should be detectable based on the searches and copy and paste history of the user into which fields that they are copying into. This work could then be automated.
-* Work can be obfuscated. People can play a first person shooter and investigate performance problems on production hardware by investigating a virtual room of stats looking for enemies.
-* Outsource looking at graphs to the community.
-* **True Observability of systems** - people can invent new observabilities and integrate them into a global information radiator of system health.
+So, how can the work that other people do benefit me directly?
+
 * **Crowdsourced queries** I'm moving to a new area and need to find a job. Can the masses of people online help me find a job quickly?
+* **Digital Work abstraction**. Pattern match on what a person is doing at a high level on a computer system and see if this pattern can be applied in other areas by other people with the same patterns. If someone is iterating through a spreadsheet, this loop should be detectable based on the searches and copy and paste history of the user into which fields that they are copying into. This work could then be automated.
+* **Working games** People can play a first person shooter and investigate performance problems on production hardware by investigating a virtual room of stats looking for enemies.
+* **Graph eyes** Outsource looking at graphs to the community.
+* ****
+
 
 # 95. Permutation Slots
 
-Computers can calculate permutations and combinations ridiclously fast. The mouse creates a hard deadline on operational completion time, the latency is very visible to computer users. I propose computers randomly generate solutions for humans to review and like a slot machine, humans review the generated solutions for usage.
+Computers can calculate permutations and combinations ridiculously fast. The mouse creates a hard deadline on operational completion time for interactivity, the latency is very visible to computer users. I propose computers randomly generate solutions in the background for humans to review and like a slot machine, humans review the generated solutions for usage.
 
 Examples where this is useable:
 
 * For document outlines that follow a structure. Randomly generate presentations and word processed document formatting options.
-* Web site design.
-* Hierarchy creation
+* Web site design
+* Data layouting
+* Layout
+* 
 
 
-# 96. 
+# 96. Hackathon Hotel
+
+A hotel whereby there is always a hackathon going on to build new things.
+
+# 97. 
 
 # Generating ideas
 
