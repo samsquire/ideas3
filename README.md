@@ -715,9 +715,8 @@ Write ingesters for each system tool or API and have it warehoused in one place 
 
 # 92. Acquire physical objects with computer
 
-Borrow physical objects with your computer.
-
-Define a computer configuration with code.
+* Borrow physical objects with your computer.
+* Define a computer configuration with code.
 
 ```
 Import Gigabyte X399 AORUS PRO
@@ -725,14 +724,46 @@ Import AMD Ryzen Threadripper 2990WX 32-Core Processor, 3000 Mhz, 32 Core(s), 64
 Construct
 ```
 
-# 93. Buy/Sell interface and payment integrated into the desktop environment
+# 93. Desktop shop front - Buy/Sell interface and payment integrated into the desktop environment
 
 Buying things and selling things are basic actions in the world that deserve decentralized infrastructure to action in the real world.
 
  * Start a shop with just your desktop environment. Accept payments.
  * Pay for bespoke software through the desktop with the option of making the resulting product open source.
+ * Trade menu - like a video game where you can trade items, a way of trading with strangers online.
+ * Auction
 
-# 94. 
+If we have a trading platform where people can list products to sell in a digital shop front, there needs to be some way of creating assets that is not necessarily a website even if web technologies are used. I propose users have the freedom of creating assets in various formats, videos, presentations and marketing materials in a common archive format. So we can realistically say that this file represents this product or service pretty accurately and completely.
+
+The desktop environment would have a common powerful shopping interface that searches these products. The effort to build this shop front is paid once and maintained by the community. But who appears in this shop is also community defined.
+
+* I propose a database of product features from all product fields.
+* Every feature in a computer system is broken down into a list of SKUs. Such as "view files on filesystem" has an identifier.
+* Marketing SKU database
+* Calculation of ratios built into the shopping software.
+
+# 94. Person dependencies
+
+A decentralized work community whereby you can depend on the work of others to benefit you personally. There are millions of people working around the clock on different things. Owning index funds allow those working at large companies to benefit me financially directly by increasing the value of large company shares and increasing dividends. There must be a way to make what other people do daily benefit me directly too. Person dependencies allows me to depend on the output of a particular individual.
+
+* **Digital Work abstraction**. Pattern match on what a person is doing at a  high level on a computer system and see if this pattern can be applied in other areas by other people with the same patterns. If someone is iterating through a spreadsheet, this loop should be detectable based on the searches and copy and paste history of the user into which fields that they are copying into. This work could then be automated.
+* Work can be obfuscated. People can play a first person shooter and investigate performance problems on production hardware by investigating a virtual room of stats looking for enemies.
+* Outsource looking at graphs to the community.
+* **True Observability of systems** - people can invent new observabilities and integrate them into a global information radiator of system health.
+* **Crowdsourced queries** I'm moving to a new area and need to find a job. Can the masses of people online help me find a job quickly?
+
+# 95. Permutation Slots
+
+Computers can calculate permutations and combinations ridiclously fast. The mouse creates a hard deadline on operational completion time, the latency is very visible to computer users. I propose computers randomly generate solutions for humans to review and like a slot machine, humans review the generated solutions for usage.
+
+Examples where this is useable:
+
+* For document outlines that follow a structure. Randomly generate presentations and word processed document formatting options.
+* Web site design.
+* Hierarchy creation
+
+
+# 96. 
 
 # Generating ideas
 
