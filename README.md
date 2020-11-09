@@ -746,7 +746,7 @@ The desktop environment would have a common powerful shopping interface that sea
 
 # 94. Person dependencies
 
-A decentralized work community whereby you can depend on the work of others to benefit you personally. There are millions of people working around the clock on different things. Owning index funds allow those working at companies to benefit you financially directly by increasing the value of your shares and increasing dividends. There must be a way to make what other people do daily benefit you directly too. Person dependencies allows me to depend on the output of a particular individual. I depend on the creators and maintainers of Python3 who increase its performance, remove bugs and fix security vulnerabilities. I want to make this dependency on people explicit.
+A decentralized work community whereby you can depend on the work of others to benefit you personally. There are millions of people working around the clock on different things. Owning index funds allow those working at companies to benefit you financially directly by increasing the value of your shares and increasing dividends. There must be a way to make what other people do daily benefit you directly too. Person dependencies allows me to depend on the output of a particular individual. I depend on the creators and maintainers of Python3 who increase its performance, remove bugs and fix security vulnerabilities. I want to make this dependency on particular people explicit.
 
 So, how can the work that other people do benefit me directly?
 
@@ -767,8 +767,6 @@ Examples where this is useable:
 * Web site design
 * Data layouting
 * Layout
-* 
-
 
 # 96. Hackathon Hotel
 
@@ -778,9 +776,13 @@ A hotel whereby there is always a hackathon going on to build new things.
 
 An online service whereby common dotfiles and configuration files can be protected by password and "logged" into at system log in time.
 
+This is what Ubuntu One should have been.
+
 # 98. 
 
+# 99. 
 
+# 100. 
 
 # Generating ideas
 
