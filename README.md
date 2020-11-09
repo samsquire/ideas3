@@ -774,11 +774,13 @@ A hotel whereby there is always a hackathon going on to build new things.
 
 # 97. System bootstrap account
 
-An online service whereby common dotfiles and configuration files can be protected by an online account and copied to the system at system login time.
+An online service whereby common dotfiles and configuration files can be protected by an online account and rsynced to the system at system login time.
 
 This is what Ubuntu One should have been.
 
-# 98. 
+# 98. Digital law
+
+Law should be commodified and applicable and useable. I propose law should be written first as computer programs that enumerate based of selectable actors.
 
 # 99. 
 
