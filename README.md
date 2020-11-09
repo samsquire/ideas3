@@ -774,7 +774,7 @@ A hotel whereby there is always a hackathon going on to build new things.
 
 # 97. System bootstrap account
 
-An online service whereby common dotfiles and configuration files can be protected by password and "logged" into at system log in time.
+An online service whereby common dotfiles and configuration files can be protected by an online account and copied to the system at system login time.
 
 This is what Ubuntu One should have been.
 
@@ -798,35 +798,10 @@ This is what Ubuntu One should have been.
 
 Scope magic
 
-# Combined truth
-
 Tree programming
-
-Function Mesh, automesh
-
 Fluent system
-
-# Query Optimisers
-
-# For loops flow control
-
-# Visual paging
-
-# Latency language
-
-Place data in different boxes.
-
-# Data suction
-
 Flow control
-
-# Notes
-
-literate programming story introduce test case all together
 
 Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
 Turn the GUI into a communication problem.
 
-Permutations and validity.
-
-A data structure that represents a forum or a blog that can be rendered into a CRUD app.
