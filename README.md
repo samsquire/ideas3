@@ -774,7 +774,11 @@ Examples where this is useable:
 
 A hotel whereby there is always a hackathon going on to build new things.
 
-# 97. 
+# 97. System bootstrap account
+
+An online service whereby common dotfiles and configuration files can be protected by password and "logged" into at system log in time.
+
+# 98. 
 
 
 
