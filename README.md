@@ -67,6 +67,8 @@ An identifier that is appended to every request log entry and message headers to
 
 The unit of sharing in programming is quite large. It's rare that just a single class or set of classes is shared. I propose we make classes shareable. I would like rich class hierarchies to be shared to share models of how things work. I propose a Forum class and a Network class which are classes of how forums work and how Networks work.
 
+In the Java ecosystem, ontologic class sharing would consist of a set of builders.
+
 # 13. Peer optimizable software
 
 How can software be written so that other people can optimize it? This idea is so that I can write my software once and get performance optimisations from random people on the internet days after writing it. How do you write optimizable software? Some ways of writing self-optimizable software I can think of are:
