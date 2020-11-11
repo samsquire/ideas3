@@ -778,9 +778,7 @@ An online service whereby common dotfiles and configuration files can be protect
 
 This is what Ubuntu One should have been.
 
-# 98. Digital law
-
-Law should be commodified and applicable and useable. I propose law should be written first as computer programs that enumerate based of selectable actors.
+# 98. 
 
 # 99. 
 
