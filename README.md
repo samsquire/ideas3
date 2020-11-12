@@ -309,11 +309,9 @@ Text can be folded and made it so that more is available at a different zoom lev
 </document>
 ```
 
-# 41. 
+# 41. Digital law
 
-
-
-
+The law system should be programmatic. It should be possible to fill in a form and get a legal result from it.
 
 # 42. User simulation caching
 
@@ -778,9 +776,19 @@ An online service whereby common dotfiles and configuration files can be protect
 
 This is what Ubuntu One should have been.
 
-# 98. 
+# 98. Personal services
 
-# 99. 
+Services built into the desktop or phone to benefit your life:
+
+* automated job search, monitors the market for for jobs with higher salaries
+* spaced repetition feed, shows content that has been read before hand (Anki integrated into the desktop)
+* gamified behaviour tracker (time management)
+* budget tracking
+* quote follower - change your life according to quotations
+
+# 99. Process, an office suite programme
+
+Corporations often have processes and workflow engines to manage flow between states. This could all be standardized by an office suite programme called "Process" which manages the transition of work items through different procedures.
 
 # 100. 
 
