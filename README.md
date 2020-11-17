@@ -787,13 +787,17 @@ Services built into the desktop or phone to benefit your life:
 * spaced repetition feed, shows content that has been read before hand (Anki integrated into the desktop)
 * gamified behaviour tracker (time management)
 * budget tracking
-* quote follower - change your life according to quotations
+* quote follower - change your life according to quotations, put quotations into practice
+* flash polling - run a poll for everybody
+* family software: family management, budgets, location tracking, decision making, what's for dinner
 
 # 99. Process, an office suite programme
 
 Corporations often have processes and workflow engines to manage flow between states. This could all be standardized by an office suite programme called "Process" which manages the transition of work items through different procedures.
 
-# 100. 
+# 100. Idea Collection
+
+
 
 # Generating ideas
 
