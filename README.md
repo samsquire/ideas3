@@ -798,7 +798,7 @@ Corporations often have processes and workflow engines to manage flow between st
 # 100. Idea Collection
 
 * **Puzzle fit** Software advertisements that run on your home infrastructure without installation to produce shopping based programming. 
-
+* **Messenger to file*** Configure a computer system by sending messages to servers, rather than writing files.
 
 # Generating ideas
 
