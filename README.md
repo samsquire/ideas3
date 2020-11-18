@@ -797,7 +797,7 @@ Corporations often have processes and workflow engines to manage flow between st
 
 # 100. Idea Collection
 
-* **Puzzle fit** Software advertisements that run on your home infrastructure without installation to produce shopping based programming. 
+* **Puzzle fitter** Software advertisements that contain code to install themselves and a fitter that works out how to integrate the software with your infrastructure. One click installation.
 * **Messenger bot to file** Configure a computer system by sending messages to bots rather than writing to files. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
 
 # Generating ideas
@@ -820,4 +820,7 @@ Flow control
 
 Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
 Turn the GUI into a communication problem.
+
+Dimensionality reducer - being a supermarket delivering food requires having a delivery truck, fuel, insurance, wages for driver, gps, computer systems for orders
+Money can be made if dimensionality can be provided, providing a service at a lower level of customisation - i want to order food
 
