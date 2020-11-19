@@ -790,6 +790,7 @@ Services built into the desktop or phone to benefit your life:
 * quote follower - change your life according to quotations, put quotations into practice
 * flash polling - run a poll for everybody
 * family software: family management, budgets, location tracking, decision making, what's for dinner
+* bank account buckets
 
 # 99. Process, an office suite programme
 
@@ -797,8 +798,9 @@ Corporations often have processes and workflow engines to manage flow between st
 
 # 100. Idea Collection
 
-* **Puzzle fitter** Software advertisements that contain code to install themselves and a fitter that works out how to integrate the software with your infrastructure. One click installation.
-* **Messenger bot to file** Configure a computer system by sending messages to bots rather than writing to files. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
+* **Puzzle fitter advertisements** Software advertisements that contain code to install themselves and a fitter that works out how to integrate the software with your infrastructure. One click installation.
+* **Messenger bot to file** Orchestrate software installation by talking to bots. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
+* ****
 
 # Generating ideas
 
