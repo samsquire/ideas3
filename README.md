@@ -798,6 +798,8 @@ Corporations often have processes and workflow engines to manage flow between st
 
 * **Puzzle fitter advertisements** Software advertisements that contain code to install themselves and a fitter that works out how to integrate the software with your infrastructure. One click installation.
 * **Messenger bot to file** Orchestrate software installation by talking to bots. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
+* **Desktop clustering and Desktop cloud** Someone should be able to build a cloud infrastructure by networking desktop computers together. OpenStack could be integrated into the desktop. Desktops connect to one another to create a cluster.
+* **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
 * ****
 
 # Generating ideas
