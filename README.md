@@ -226,11 +226,9 @@ contactUsForm hasA textarea:body
 
 Components have data dependencies which causes data queries to automatically populate data for them.
 
-# 28. Accelerated mode, temporary write safety off
+# 28. 
 
-When you're reasonably sure that the software won't crash and the power won't go out. The ability to scale down write safety settings at run time for accelerated performance. Currently this requires restarts for most software.
 
- * Postgres, `synchronous_commit`, `fsync` settings
 
 # 29. Per-server request log
 
