@@ -802,6 +802,11 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
 * ****
 
+# 101 Community Idea: Instajob
+
+High level services such as delivery services that are broken up into subjobs for people to accept. Can be paid to do work without a job interview and are reviewed by other users.
+
+
 # Generating ideas
 
  * marketplace
