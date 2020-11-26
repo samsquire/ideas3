@@ -226,13 +226,13 @@ contactUsForm hasA textarea:body
 
 Components have data dependencies which causes data queries to automatically populate data for them.
 
-# 28. 
+# 28. Backup as a service
 
-
+Backup is fundamental to running computer services, it should be available as a service. Postgres backup as a service. A dashboard should be provided to show available backups and to restore them.
 
 # 29. Per-server request log
 
-When a request is received, serialize the request and write it to the machine readable log in the background. Do not acknowledge success until it is written to the per-server log. Aggregate the per-server write ahead logs every few minutes.
+When a request is received, serialize the request and write it to the machine readable log in the background. Do not acknowledge success until it is written to the per-server log. Aggregate the per-server write ahead logs every few minutes. Every request therefore has a write ahead log.
 
 # 30. Algorithm servers
 
