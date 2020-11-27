@@ -800,9 +800,9 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Messenger bot to file** Orchestrate software installation by talking to bots. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
 * **Desktop clustering and Desktop cloud** Someone should be able to build a cloud infrastructure by networking desktop computers together. OpenStack could be integrated into the desktop. Desktops connect to one another to create a cluster.
 * **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
-* ****
+* **Metadata enhanced storage** Instant storage consumption data due to indexes.
 
-# 101 Community Idea: Instajob
+# 101 Community Idea: Instant job
 
 High level services such as delivery services that are broken up into subjobs for people to accept. Can be paid to do work without a job interview and are reviewed by other users.
 
