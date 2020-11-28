@@ -800,7 +800,7 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Desktop clustering and Desktop cloud** Someone should be able to build a cloud infrastructure by networking desktop computers together. OpenStack could be integrated into the desktop. Desktops connect to one another to create a cluster.
 * **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
 * **Metadata enhanced storage** Instant storage consumption data due to indexes. Rather than running ncdu to calculate storage usage, we can get the information immediately. Would slow down the filesystem for a benefit in performance when running aggregations.
-* ****
+* **Community Idea: Always there** A community of people guaranteed to reply. You're in a supermarket and you have the option of two choices, at different prices. You're too lazy to work it out on your phone, so you take a photo of both price tags and ask people to help with the math.
 
 # 101 Community Idea: Instant job
 
