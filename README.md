@@ -784,11 +784,10 @@ Services built into the desktop or phone to benefit your life:
 * automated job search, monitors the market for for jobs with higher salaries
 * spaced repetition feed, shows content that has been read before hand (Anki integrated into the desktop)
 * gamified behaviour tracker (time management)
-* budget tracking
+* budget tracking, virtual bank account buckets
 * quote follower - change your life according to quotations, put quotations into practice
 * flash polling - run a poll for everybody
-* family software: family management, budgets, location tracking, decision making, what's for dinner
-* bank account buckets
+* family software: family management, location tracking, decision making, voting, what's for dinner
 
 # 99. Process, an office suite programme
 
