@@ -33,7 +33,9 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 A desktop distribution of Linux that has a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a web forum. Translations and GUIs are rendered in the web forum and people vote on things such as layouts.
 
-# 6. 
+# 6. **Instant advertisement purchases - puzzle fitter environment**
+
+Instantly purchase an advert. Software advertisements that contain code to install themselves and a puzzle fitter that works out how to integrate the software with your infrastructure. One click installation and integration into continuous integration.
 
 # 7. Rendering engine asset detection
 
@@ -793,7 +795,6 @@ Corporations often have processes and workflow engines to manage flow between st
 
 # 100. Idea Collection
 
-* **Instant advertisement purchases - puzzle fitter environment** Instantly purchase an advert. Software advertisements that contain code to install themselves and a puzzle fitter that works out how to integrate the software with your infrastructure. One click installation.
 * **Messenger bot to file** Orchestrate software installation by talking to bots. So you might have a bot that installs services, by creating systemd services. Send the command to make a service from. So you would send a URL to untar to a bot, the bot would untar it, you would send a message to move the file to the right location.
 * **Desktop clustering and Desktop cloud** Someone should be able to build a cloud infrastructure by networking desktop computers together. OpenStack could be integrated into the desktop. Desktops connect to one another to create a cluster.
 * **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
