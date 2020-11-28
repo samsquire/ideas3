@@ -801,6 +801,8 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Instabusiness** Business software built into the desktop, so people can run companies using just a computer.
 * **Metadata enhanced storage** Instant storage consumption data due to indexes. Rather than running ncdu to calculate storage usage, we can get the information immediately. Would slow down the filesystem for a benefit in performance when running aggregations.
 * **Community Idea: Always there** A community of people guaranteed to reply. You're in a supermarket and you have the option of two choices, at different prices. You're too lazy to work it out on your phone, so you take a photo of both price tags and ask people to help with the math.
+* **Dimensionality reducer** Most people can handle a life of relative complexity, house, car, travel to work, rest, cook and sleep. Anything on top of this is complexity. I propose a computer system that tracks dimensionalities. Which are things to manage: If you have a car, you need car insurance, if you have a house you need house insurance. I propose the dimensionality reducer generates business ideas based on management of things. You get quizzed on your dimensionality score, which is how many dimensions of life you have to worry about, and then you are recommended businesses that manage these on your behalf.
+
 
 # 101 Community Idea: Instant job
 
