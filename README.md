@@ -33,9 +33,7 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 A desktop distribution of Linux that has a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a web forum. Translations and GUIs are rendered in the web forum and people vote on things such as layouts.
 
-# 6. Bandwidth chargers
-
-Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
+# 6. 
 
 # 7. Rendering engine asset detection
 
@@ -802,7 +800,7 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Metadata enhanced storage** Instant storage consumption data due to indexes. Rather than running ncdu to calculate storage usage, we can get the information immediately. Would slow down the filesystem for a benefit in performance when running aggregations.
 * **Community Idea: Always there** A community of people guaranteed to reply. You're in a supermarket and you have the option of two choices, at different prices. You're too lazy to work it out on your phone, so you take a photo of both price tags and ask people to help with the math.
 * **Dimensionality reducer** Most people can handle a life of relative complexity, house, car, travel to work, rest, cook and sleep. Anything on top of this is complexity. I propose a computer system that tracks dimensionalities. Which are things to manage: If you have a car, you need car insurance and fuel, if you have a house you need house insurance. I propose the dimensionality reducer generates a stream of work to fulfil for other people, in return for payment. You get quizzed on your dimensionality score, which is how many dimensions of life you have to worry about, and then you are recommended businesses that manage these on your behalf.
-
+* **Bandwidth chargers** Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 
 # 101 Community Idea: Instant job
 
