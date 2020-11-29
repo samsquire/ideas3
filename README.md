@@ -412,6 +412,7 @@ My phone should know where I'm going to be sleeping and where I'm going to be ea
 
 * travel purchase (flights, trains, buses)
 * self storage
+* food
 
 # 60. Combined truth
 
