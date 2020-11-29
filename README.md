@@ -3,6 +3,7 @@
 Some ideas for computers I thought of that I enjoyed thinking about and writing down. Please see the other pages of the series.
 
 * [Follow me on Twitter](http://twitter.com/mrsamuelsquire)
+* Please use issues to start discussions on ideas.
 * The first page of this series [100 Ideas for Computing](https://github.com/samsquire/ideas)
 * The second page of this series [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
 
