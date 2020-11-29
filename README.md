@@ -448,6 +448,10 @@ Companies could generate websites in advance as static websites that are downloa
 
 Imagine a JSON file that you could refer to a field at any level and have meaningful data returned.
 
+Existing:
+
+* [jq](https://stedolan.github.io/jq): querying JSON data
+
 # 67. Earncode
 
 Earn money solving implementing unit tests.
