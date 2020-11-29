@@ -293,6 +293,10 @@ Alternatively, each click changes the query of the widgets on the screen. Clicki
 
 # 38. Built in desktop Queue
 
+Desktops should have a built in queuing system for queuing up moves, copies, renames, installs. 
+
+See https://github.com/samsquire/cloud-desktop#desktop-queuing for an example
+
 # 39. Built to cluster with others
 
 Each installation of a desktop environment is a set of resources that could be shared.
