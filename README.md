@@ -391,7 +391,7 @@ A database of problems.
 
 Existing:
 
-* [Infinity Family](0oo.li)
+* [Infinity Family](http://0oo.li)
 
 # 56. GUI Data Ordering
 
