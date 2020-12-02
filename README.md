@@ -446,6 +446,8 @@ Companies could generate websites in advance as static websites that are downloa
 
 # 65. Ending not found errors
 
+Relative searches are the cause of not found errors.
+
 # 66. Searchable data structures
 
 Imagine a JSON file that you could refer to a field at any level and have meaningful data returned.
