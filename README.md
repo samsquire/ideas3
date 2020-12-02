@@ -450,7 +450,7 @@ Relative searches are the cause of not found errors.
 
 # 66. Searchable data structures
 
-Imagine a JSON file that you could refer to a field at any level and have meaningful data returned.
+Imagine a JSON file that you could refer to a field at any level and have meaningful data returned. Without having to specify the path to get to that item.
 
 # 67. Earncode
 
