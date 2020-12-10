@@ -819,24 +819,7 @@ Corporations often have processes and workflow engines to manage flow between st
 
 High level services such as delivery services that are broken up into subjobs for people to accept. Can be paid to do work without a job interview and are reviewed by other users.
 
+# More ideas
 
-# Generating ideas
+There's more ideas in [ideas4](https://github.com/samsquire/ideas4), it's not finished yet but you can give it a look.
 
- * marketplace
- * schedule
- * tree
- * additive/combined
- * auto
- * mesh
- * hooks
-
-# Incomplete thoughts and ideas 
-
-Scope magic
-
-Tree programming
-Fluent system
-Flow control
-
-Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
-Turn the GUI into a communication problem.
