@@ -411,6 +411,7 @@ Most application servers have the capacity to have objects that outlive requests
 
 My phone should know where I'm going to be sleeping and where I'm going to be eating in advance. I liken it to another status indicator along the notification area of the phone. I should be able to swipe down the notification area and click food and click what I want to eat and have it automatically sourced.
 
+* hotels/airbnbs/home
 * travel purchase (flights, trains, buses)
 * self storage
 * food
