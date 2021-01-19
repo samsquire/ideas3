@@ -768,6 +768,11 @@ So, how can the work that other people do benefit me directly?
 * **Graph eyes** Outsource looking at graphs to the community.
 * ****
 
+```
+import sam@samsquire.com:
+   ask "Can you review this idea"
+
+```
 
 # 95. Permutation Slots
 
