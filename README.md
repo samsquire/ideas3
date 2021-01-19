@@ -127,7 +127,7 @@ Database plans and histograms are uploaded to a Twitter of optimization for hand
 
 # 17. Query database
 
-A database system that stores queries like stored procedures but uses the plan of the query to optimize data storage format. The queries are analaysed to determine the optimal data structure to make the query fast at reading and writing. The data storage format is optimised to fulfil the stored queries and to meet read and write budgets of the queries.
+A database system that stores queries like stored procedures but uses the plan of the query to optimize data storage format. The queries are analaysed to determine the optimal data structure to make the query fast at reading and writing. There would be tunables for optimising for read or write loads.
 
 * The database might decide to store data in column orientated style if a query uses the whole table.
 * The database can be automatically sharded for queries like `select * from table where category == "BLAH"` in this scenario, the rows matching "BLAH" can be stored in a different file. I call this particular optimisation table promotion.
