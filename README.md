@@ -37,7 +37,7 @@ A desktop distribution of Linux that has a [deep lever](https://github.com/samsq
 
 # 6. Business Idea: The Configurator
 
-Run a small program from a startup company to extract all running servers (from DNS) and SSH hostnames, bastion host, send this to startup, the startup works out how to configure complicated software like Envoy for you, with your configuration based off of your environment. Once this configuration is generated, a dynamic program is ran regularly to handle service discovery.
+Run a small program from a startup company to extract all running servers (from DNS) and SSH hostnames, bastion host, send this to startup, the startup works out how to configure complicated software like Envoy for you, with your configuration based off of your environment. Once this configuration is generated, a dynamic program is ran regularly to update this configuration (as service discovery).
 
 # 7. Rendering engine asset detection
 
