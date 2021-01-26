@@ -38,6 +38,7 @@ A desktop distribution of Linux that has a [deep lever](https://github.com/samsq
 
 
 
+
 # 7. Rendering engine asset detection
 
 Rendering engines throw a lot of content away. I wonder if some content can be recognised as being static, as unchanging and re-used between frames. Or If there's a list of thousand items, is it possible to recognise that the content of each list item is static and the only thing that changes is the ordering. So all that's needed is rendering cached bitmaps in a unique ordering.
@@ -820,6 +821,8 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Community Idea: Always there** A community of people guaranteed to reply. You're in a supermarket and you have the option of two choices, at different prices. You're too lazy to work it out on your phone, so you take a photo of both price tags and ask people to help with the math.
 * **Dimensionality reducer** Most people can handle a life of relative complexity, house, car, travel to work, rest, cook and sleep. Anything on top of this is complexity. I propose a computer system that tracks dimensionalities. Which are things to manage: If you have a car, you need car insurance and fuel, if you have a house you need house insurance. I propose the dimensionality reducer generates a stream of work to fulfil for other people, in return for payment. You get quizzed on your dimensionality score, which is how many dimensions of life you have to worry about, and then you are recommended businesses that manage these on your behalf.
 * **Bandwidth chargers** Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
+* **Possession tracking**
+* **Focal point** If we want to focus on something, we can put the words or sentence on the screen in a prominent location. So we never lose track on what we're working on.
 
 # 101 Community Idea: Instant job
 
