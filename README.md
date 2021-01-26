@@ -32,11 +32,11 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 # 5. Forum powered desktop
 
-A desktop distribution of Linux that has a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a custom web forum. Translations and GUIs are rendered in the web forum and people vote on things such as layouts. People decide how the desktop should work by discussing it in threads and threads decide how the desktop works. People can go against the grain and vote for their desktop to work in a way that  is not the consensus. 
+A desktop distribution of Linux that has a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a custom web forum. Translations and GUIs are rendered in the web forum and people vote on things such as layouts. People decide how the desktop should work by discussing it in threads because threads decide how the desktop works. People can go against the grain and vote for their desktop to work in a way that is not the consensus. 
 
-# 6. ****
+# 6. Business Idea: The Configurator
 
-
+Run a small program from a startup company to extract all running servers (from DNS) and SSH hostnames, bastion host, send this to startup, the startup works out how to configure complicated software like Envoy for you, with your configuration based off of your environment.
 
 
 # 7. Rendering engine asset detection
@@ -823,6 +823,7 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Bandwidth chargers** Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 * **Possession tracking**
 * **Focal point** If we want to focus on something, we can put the words or sentence on the screen in a prominent location. So we never lose track on what we're working on.
+* **SLA marketplace** Buy an SLA
 
 # 101 Community Idea: Instant job
 
