@@ -34,9 +34,9 @@ See [importless lang for a proof of concept with Python](https://github.com/sams
 
 A desktop distribution of Linux that has a [deep lever](https://github.com/samsquire/ideas2#99-deep-lever--action-at-distance) into a custom web forum. Translations and GUIs are rendered in the web forum and people vote on things such as layouts. People decide how the desktop should work by discussing it in threads and threads decide how the desktop works. People can go against the grain and vote for their desktop to work in a way that  is not the consensus. 
 
-# 6. **Instant advertisement purchases**
+# 6. ****
 
-Instantly purchase an advert. Software advertisements that contain code to install themselves and a puzzle fitter that works out how to integrate the software with your infrastructure. One click installation and integration into continuous integration.
+
 
 # 7. Rendering engine asset detection
 
