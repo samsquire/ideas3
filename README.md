@@ -767,11 +767,12 @@ So, how can the work that other people do benefit me directly?
 * **Digital Work abstraction**. Pattern match on what a person is doing at a high level on a computer system and see if this pattern can be applied in other areas by other people with the same patterns. If someone is iterating through a spreadsheet, this loop should be detectable based on the searches and copy and paste history of the user into which fields that they are copying into. This work could then be automated.
 * **Working games** People can play a first person shooter and investigate performance problems on production hardware by investigating a virtual room of stats looking for enemies.
 * **Graph eyes** Outsource looking at graphs to the community.
-* ****
+
+I want to be able to import a person by writing down an import statement.
 
 ```
 import sam@samsquire.com:
-   ask "Can you review this idea"
+   ask "Can you review this idea https://github.com/samsquire/ideas3#94-person-dependencies"
 
 ```
 
