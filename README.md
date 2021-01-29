@@ -448,7 +448,7 @@ Companies could generate websites in advance as static websites that are downloa
 
 # 65. Ending not found errors
 
-Relative searches are the cause of not found errors.
+Relative searches are the cause of not found errors. Computers could look everywhere for imported libraries to avoid unnecessary errors.
 
 # 66. Searchable data structures
 
