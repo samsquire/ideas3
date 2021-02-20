@@ -825,7 +825,7 @@ Corporations often have processes and workflow engines to manage flow between st
 * **Dimensionality reducer** Most people can handle a life of relative complexity, house, car, travel to work, rest, cook and sleep. Anything on top of this is complexity. I propose a computer system that tracks dimensionalities. Which are things to manage: If you have a car, you need car insurance and fuel, if you have a house you need house insurance. I propose the dimensionality reducer generates a stream of work to fulfil for other people, in return for payment. You get quizzed on your dimensionality score, which is how many dimensions of life you have to worry about, and then you are recommended businesses that manage these on your behalf.
 * **Bandwidth chargers** Billing for users of bandwidth from services like AWS. So open source projects could create high data transfer services.
 * **Possession tracking**
-* **Focal point** If we want to focus on something, we can put the words or sentence on the screen in a prominent location. So we never lose track on what we're working on.
+* **Focal point** We often lose track at what task we are doing. If we're making coffee and have a plan to make coffee and get into a conversation about some complicated thing, depending on our skill level, or if the task is more complicated, we lose the ability to make coffee. So we need a program reminding us what we are working towards. Perhaps a prominent word in a location on the computer screen which should be a focal point.
 * **SLA marketplace** Buy an SLA
 
 # 101 Community Idea: Instant job
