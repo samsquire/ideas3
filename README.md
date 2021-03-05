@@ -7,7 +7,9 @@ Some ideas for computers I thought of that I enjoyed thinking about and writing 
 * Please use issues to start discussions on ideas.
 * The first page of this series [100 Ideas for Computing](https://github.com/samsquire/ideas)
 * The second page of this series [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
-* Looking for business ideas? Checkout my startups repository where I list business ideas.
+* The forth page of this series [An Additional 100 Ideas for Computing](https://github.com/samsquire/ideas4)
+* Looking for business ideas? Checkout my [startups repository](https://github.com/samsquire/startups) where I list business ideas.
+
 
 Themes:
 
