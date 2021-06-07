@@ -776,7 +776,7 @@ I want to be able to import a person by writing down an import statement.
 
 ```
 import sam@samsquire.com:
-   ask "Can you review this idea https://github.com/samsquire/ideas3#94-person-dependencies"
+   ask "Can you review this idea https://github.com/samsquire/ideas3#94-person-dependencies "
 
 ```
 
