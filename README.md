@@ -457,6 +457,10 @@ Relative searches are the cause of not found errors. Computers could look everyw
 
 Imagine a JSON file that you could refer to a field at any level and have meaningful data returned. Without having to specify the path to get to that item.
 
+Existing:
+
+* [jq](https://stedolan.github.io/jq): querying JSON data
+
 # 67. Earncode
 
 Earn money solving implementing unit tests.
