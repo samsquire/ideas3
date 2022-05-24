@@ -371,7 +371,7 @@ A secret technology union for programmers and people in the computer industry. R
 
 # 50. Capacity planning tool
 
-An interactive tool that renders time charts of how long some thing takes. Imagine 60 frames a second visual output being a goal, you can drag pieces of work onto the chart to schedule it to run.
+An interactive tool that renders time charts of how long some thing takes. Imagine 60 frames a second visual output being a goal, you can drag pieces of work onto the chart to schedule it to run. Should cause it to be easy to schedule things in parallel or asynchronously and concurrently.
 
 # 51. World Happiness Index
 
